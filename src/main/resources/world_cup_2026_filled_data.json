@@ -1,0 +1,1907 @@
+{
+  "tournament": "World Cup 2026",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "id": "CZE",
+          "name": "Czech Republic"
+        },
+        {
+          "id": "KOR",
+          "name": "South Korea"
+        },
+        {
+          "id": "MEX",
+          "name": "Mexico"
+        },
+        {
+          "id": "RSA",
+          "name": "South Africa"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 1,
+          "round": "Matchday 1",
+          "date": "2026-06-11",
+          "homeTeam": "MEX",
+          "awayTeam": "RSA",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "Mexico City",
+          "odds": {
+            "homeWin": 1.35,
+            "draw": 4.5,
+            "awayWin": 9.0
+          }
+        },
+        {
+          "matchId": 2,
+          "round": "Matchday 1",
+          "date": "2026-06-11",
+          "homeTeam": "KOR",
+          "awayTeam": "CZE",
+          "homeScore": 1,
+          "awayScore": 1,
+          "ground": "Guadalajara (Zapopan)",
+          "odds": {
+            "homeWin": 2.4,
+            "draw": 3.2,
+            "awayWin": 3.0
+          }
+        },
+        {
+          "matchId": 3,
+          "round": "Matchday 8",
+          "date": "2026-06-18",
+          "homeTeam": "CZE",
+          "awayTeam": "RSA",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "Atlanta",
+          "odds": {
+            "homeWin": 1.55,
+            "draw": 3.8,
+            "awayWin": 6.5
+          }
+        },
+        {
+          "matchId": 4,
+          "round": "Matchday 8",
+          "date": "2026-06-18",
+          "homeTeam": "MEX",
+          "awayTeam": "KOR",
+          "homeScore": 1,
+          "awayScore": 0,
+          "ground": "Guadalajara (Zapopan)",
+          "odds": {
+            "homeWin": 1.9,
+            "draw": 3.4,
+            "awayWin": 4.2
+          }
+        },
+        {
+          "matchId": 5,
+          "round": "Matchday 14",
+          "date": "2026-06-24",
+          "homeTeam": "CZE",
+          "awayTeam": "MEX",
+          "homeScore": 1,
+          "awayScore": 2,
+          "ground": "Mexico City",
+          "odds": {
+            "homeWin": 3.2,
+            "draw": 3.3,
+            "awayWin": 2.25
+          }
+        },
+        {
+          "matchId": 6,
+          "round": "Matchday 14",
+          "date": "2026-06-24",
+          "homeTeam": "RSA",
+          "awayTeam": "KOR",
+          "homeScore": 0,
+          "awayScore": 2,
+          "ground": "Monterrey (Guadalupe)",
+          "odds": {
+            "homeWin": 5.5,
+            "draw": 3.8,
+            "awayWin": 1.65
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "id": "BIH",
+          "name": "Bosnia & Herzegovina"
+        },
+        {
+          "id": "CAN",
+          "name": "Canada"
+        },
+        {
+          "id": "QAT",
+          "name": "Qatar"
+        },
+        {
+          "id": "SUI",
+          "name": "Switzerland"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 7,
+          "round": "Matchday 2",
+          "date": "2026-06-12",
+          "homeTeam": "CAN",
+          "awayTeam": "BIH",
+          "homeScore": 1,
+          "awayScore": 0,
+          "ground": "Toronto",
+          "odds": {
+            "homeWin": 1.95,
+            "draw": 3.4,
+            "awayWin": 4.0
+          }
+        },
+        {
+          "matchId": 8,
+          "round": "Matchday 3",
+          "date": "2026-06-13",
+          "homeTeam": "QAT",
+          "awayTeam": "SUI",
+          "homeScore": 0,
+          "awayScore": 2,
+          "ground": "San Francisco Bay Area (Santa Clara)",
+          "odds": {
+            "homeWin": 6.0,
+            "draw": 4.0,
+            "awayWin": 1.55
+          }
+        },
+        {
+          "matchId": 9,
+          "round": "Matchday 8",
+          "date": "2026-06-18",
+          "homeTeam": "SUI",
+          "awayTeam": "BIH",
+          "homeScore": 1,
+          "awayScore": 0,
+          "ground": "Los Angeles (Inglewood)",
+          "odds": {
+            "homeWin": 1.7,
+            "draw": 3.6,
+            "awayWin": 5.0
+          }
+        },
+        {
+          "matchId": 10,
+          "round": "Matchday 8",
+          "date": "2026-06-18",
+          "homeTeam": "CAN",
+          "awayTeam": "QAT",
+          "homeScore": 3,
+          "awayScore": 0,
+          "ground": "Vancouver",
+          "odds": {
+            "homeWin": 1.25,
+            "draw": 5.5,
+            "awayWin": 12.0
+          }
+        },
+        {
+          "matchId": 11,
+          "round": "Matchday 14",
+          "date": "2026-06-24",
+          "homeTeam": "SUI",
+          "awayTeam": "CAN",
+          "homeScore": 1,
+          "awayScore": 1,
+          "ground": "Vancouver",
+          "odds": {
+            "homeWin": 2.2,
+            "draw": 3.3,
+            "awayWin": 3.4
+          }
+        },
+        {
+          "matchId": 12,
+          "round": "Matchday 14",
+          "date": "2026-06-24",
+          "homeTeam": "BIH",
+          "awayTeam": "QAT",
+          "homeScore": 2,
+          "awayScore": 1,
+          "ground": "Seattle",
+          "odds": {
+            "homeWin": 1.85,
+            "draw": 3.5,
+            "awayWin": 4.2
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "id": "BRA",
+          "name": "Brazil"
+        },
+        {
+          "id": "HAI",
+          "name": "Haiti"
+        },
+        {
+          "id": "MOR",
+          "name": "Morocco"
+        },
+        {
+          "id": "SCO",
+          "name": "Scotland"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 13,
+          "round": "Matchday 3",
+          "date": "2026-06-13",
+          "homeTeam": "BRA",
+          "awayTeam": "MOR",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "New York/New Jersey (East Rutherford)",
+          "odds": {
+            "homeWin": 1.55,
+            "draw": 3.8,
+            "awayWin": 6.5
+          }
+        },
+        {
+          "matchId": 14,
+          "round": "Matchday 3",
+          "date": "2026-06-13",
+          "homeTeam": "HAI",
+          "awayTeam": "SCO",
+          "homeScore": 0,
+          "awayScore": 2,
+          "ground": "Boston (Foxborough)",
+          "odds": {
+            "homeWin": 4.5,
+            "draw": 3.6,
+            "awayWin": 1.75
+          }
+        },
+        {
+          "matchId": 15,
+          "round": "Matchday 9",
+          "date": "2026-06-19",
+          "homeTeam": "SCO",
+          "awayTeam": "MOR",
+          "homeScore": 0,
+          "awayScore": 1,
+          "ground": "Boston (Foxborough)",
+          "odds": {
+            "homeWin": 2.8,
+            "draw": 3.2,
+            "awayWin": 2.6
+          }
+        },
+        {
+          "matchId": 16,
+          "round": "Matchday 9",
+          "date": "2026-06-19",
+          "homeTeam": "BRA",
+          "awayTeam": "HAI",
+          "homeScore": 4,
+          "awayScore": 0,
+          "ground": "Philadelphia",
+          "odds": {
+            "homeWin": 1.05,
+            "draw": 12.0,
+            "awayWin": 25.0
+          }
+        },
+        {
+          "matchId": 17,
+          "round": "Matchday 14",
+          "date": "2026-06-24",
+          "homeTeam": "SCO",
+          "awayTeam": "BRA",
+          "homeScore": 1,
+          "awayScore": 2,
+          "ground": "Miami (Miami Gardens)",
+          "odds": {
+            "homeWin": 5.5,
+            "draw": 4.0,
+            "awayWin": 1.6
+          }
+        },
+        {
+          "matchId": 18,
+          "round": "Matchday 14",
+          "date": "2026-06-24",
+          "homeTeam": "MOR",
+          "awayTeam": "HAI",
+          "homeScore": 3,
+          "awayScore": 0,
+          "ground": "Atlanta",
+          "odds": {
+            "homeWin": 1.3,
+            "draw": 5.0,
+            "awayWin": 10.0
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "id": "AUS",
+          "name": "Australia"
+        },
+        {
+          "id": "PAR",
+          "name": "Paraguay"
+        },
+        {
+          "id": "TUR",
+          "name": "Turkey"
+        },
+        {
+          "id": "USA",
+          "name": "USA"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 19,
+          "round": "Matchday 2",
+          "date": "2026-06-12",
+          "homeTeam": "USA",
+          "awayTeam": "PAR",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "Los Angeles (Inglewood)",
+          "odds": {
+            "homeWin": 1.55,
+            "draw": 3.8,
+            "awayWin": 6.5
+          }
+        },
+        {
+          "matchId": 20,
+          "round": "Matchday 3",
+          "date": "2026-06-13",
+          "homeTeam": "AUS",
+          "awayTeam": "TUR",
+          "homeScore": 0,
+          "awayScore": 1,
+          "ground": "Vancouver",
+          "odds": {
+            "homeWin": 2.6,
+            "draw": 3.2,
+            "awayWin": 2.8
+          }
+        },
+        {
+          "matchId": 21,
+          "round": "Matchday 9",
+          "date": "2026-06-19",
+          "homeTeam": "USA",
+          "awayTeam": "AUS",
+          "homeScore": 1,
+          "awayScore": 1,
+          "ground": "Seattle",
+          "odds": {
+            "homeWin": 1.75,
+            "draw": 3.5,
+            "awayWin": 4.8
+          }
+        },
+        {
+          "matchId": 22,
+          "round": "Matchday 9",
+          "date": "2026-06-19",
+          "homeTeam": "TUR",
+          "awayTeam": "PAR",
+          "homeScore": 2,
+          "awayScore": 1,
+          "ground": "San Francisco Bay Area (Santa Clara)",
+          "odds": {
+            "homeWin": 1.9,
+            "draw": 3.4,
+            "awayWin": 4.2
+          }
+        },
+        {
+          "matchId": 23,
+          "round": "Matchday 15",
+          "date": "2026-06-25",
+          "homeTeam": "TUR",
+          "awayTeam": "USA",
+          "homeScore": 1,
+          "awayScore": 2,
+          "ground": "Los Angeles (Inglewood)",
+          "odds": {
+            "homeWin": 2.8,
+            "draw": 3.3,
+            "awayWin": 2.5
+          }
+        },
+        {
+          "matchId": 24,
+          "round": "Matchday 15",
+          "date": "2026-06-25",
+          "homeTeam": "PAR",
+          "awayTeam": "AUS",
+          "homeScore": 0,
+          "awayScore": 2,
+          "ground": "San Francisco Bay Area (Santa Clara)",
+          "odds": {
+            "homeWin": 3.4,
+            "draw": 3.3,
+            "awayWin": 2.15
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        {
+          "id": "CUR",
+          "name": "Curaçao"
+        },
+        {
+          "id": "ECU",
+          "name": "Ecuador"
+        },
+        {
+          "id": "GER",
+          "name": "Germany"
+        },
+        {
+          "id": "IVO",
+          "name": "Ivory Coast"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 25,
+          "round": "Matchday 4",
+          "date": "2026-06-14",
+          "homeTeam": "GER",
+          "awayTeam": "CUR",
+          "homeScore": 4,
+          "awayScore": 0,
+          "ground": "Houston",
+          "odds": {
+            "homeWin": 1.02,
+            "draw": 18.0,
+            "awayWin": 35.0
+          }
+        },
+        {
+          "matchId": 26,
+          "round": "Matchday 4",
+          "date": "2026-06-14",
+          "homeTeam": "IVO",
+          "awayTeam": "ECU",
+          "homeScore": 1,
+          "awayScore": 2,
+          "ground": "Philadelphia",
+          "odds": {
+            "homeWin": 2.8,
+            "draw": 3.2,
+            "awayWin": 2.6
+          }
+        },
+        {
+          "matchId": 27,
+          "round": "Matchday 10",
+          "date": "2026-06-20",
+          "homeTeam": "GER",
+          "awayTeam": "IVO",
+          "homeScore": 3,
+          "awayScore": 0,
+          "ground": "Toronto",
+          "odds": {
+            "homeWin": 1.3,
+            "draw": 5.0,
+            "awayWin": 10.0
+          }
+        },
+        {
+          "matchId": 28,
+          "round": "Matchday 10",
+          "date": "2026-06-20",
+          "homeTeam": "ECU",
+          "awayTeam": "CUR",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "Kansas City",
+          "odds": {
+            "homeWin": 1.2,
+            "draw": 6.5,
+            "awayWin": 15.0
+          }
+        },
+        {
+          "matchId": 29,
+          "round": "Matchday 15",
+          "date": "2026-06-25",
+          "homeTeam": "CUR",
+          "awayTeam": "IVO",
+          "homeScore": 0,
+          "awayScore": 3,
+          "ground": "Philadelphia",
+          "odds": {
+            "homeWin": 7.0,
+            "draw": 4.5,
+            "awayWin": 1.45
+          }
+        },
+        {
+          "matchId": 30,
+          "round": "Matchday 15",
+          "date": "2026-06-25",
+          "homeTeam": "ECU",
+          "awayTeam": "GER",
+          "homeScore": 0,
+          "awayScore": 2,
+          "ground": "New York/New Jersey (East Rutherford)",
+          "odds": {
+            "homeWin": 5.0,
+            "draw": 3.8,
+            "awayWin": 1.7
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "id": "JAP",
+          "name": "Japan"
+        },
+        {
+          "id": "NED",
+          "name": "Netherlands"
+        },
+        {
+          "id": "SWE",
+          "name": "Sweden"
+        },
+        {
+          "id": "TUN",
+          "name": "Tunisia"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 31,
+          "round": "Matchday 4",
+          "date": "2026-06-14",
+          "homeTeam": "NED",
+          "awayTeam": "JAP",
+          "homeScore": 2,
+          "awayScore": 1,
+          "ground": "Dallas (Arlington)",
+          "odds": {
+            "homeWin": 1.75,
+            "draw": 3.5,
+            "awayWin": 4.8
+          }
+        },
+        {
+          "matchId": 32,
+          "round": "Matchday 4",
+          "date": "2026-06-14",
+          "homeTeam": "SWE",
+          "awayTeam": "TUN",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "Monterrey (Guadalupe)",
+          "odds": {
+            "homeWin": 1.65,
+            "draw": 3.6,
+            "awayWin": 5.5
+          }
+        },
+        {
+          "matchId": 33,
+          "round": "Matchday 10",
+          "date": "2026-06-20",
+          "homeTeam": "NED",
+          "awayTeam": "SWE",
+          "homeScore": 3,
+          "awayScore": 0,
+          "ground": "Houston",
+          "odds": {
+            "homeWin": 1.55,
+            "draw": 4.0,
+            "awayWin": 6.0
+          }
+        },
+        {
+          "matchId": 34,
+          "round": "Matchday 10",
+          "date": "2026-06-20",
+          "homeTeam": "TUN",
+          "awayTeam": "JAP",
+          "homeScore": 0,
+          "awayScore": 2,
+          "ground": "Monterrey (Guadalupe)",
+          "odds": {
+            "homeWin": 4.2,
+            "draw": 3.4,
+            "awayWin": 1.9
+          }
+        },
+        {
+          "matchId": 35,
+          "round": "Matchday 15",
+          "date": "2026-06-25",
+          "homeTeam": "JAP",
+          "awayTeam": "SWE",
+          "homeScore": 1,
+          "awayScore": 0,
+          "ground": "Dallas (Arlington)",
+          "odds": {
+            "homeWin": 1.9,
+            "draw": 3.4,
+            "awayWin": 4.2
+          }
+        },
+        {
+          "matchId": 36,
+          "round": "Matchday 15",
+          "date": "2026-06-25",
+          "homeTeam": "TUN",
+          "awayTeam": "NED",
+          "homeScore": 0,
+          "awayScore": 2,
+          "ground": "Kansas City",
+          "odds": {
+            "homeWin": 6.5,
+            "draw": 4.2,
+            "awayWin": 1.5
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group G",
+      "teams": [
+        {
+          "id": "BEL",
+          "name": "Belgium"
+        },
+        {
+          "id": "EGY",
+          "name": "Egypt"
+        },
+        {
+          "id": "IRA",
+          "name": "Iran"
+        },
+        {
+          "id": "NZL",
+          "name": "New Zealand"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 37,
+          "round": "Matchday 5",
+          "date": "2026-06-15",
+          "homeTeam": "BEL",
+          "awayTeam": "EGY",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "Seattle",
+          "odds": {
+            "homeWin": 1.55,
+            "draw": 3.8,
+            "awayWin": 6.5
+          }
+        },
+        {
+          "matchId": 38,
+          "round": "Matchday 5",
+          "date": "2026-06-15",
+          "homeTeam": "IRA",
+          "awayTeam": "NZL",
+          "homeScore": 2,
+          "awayScore": 1,
+          "ground": "Los Angeles (Inglewood)",
+          "odds": {
+            "homeWin": 1.45,
+            "draw": 4.2,
+            "awayWin": 7.5
+          }
+        },
+        {
+          "matchId": 39,
+          "round": "Matchday 11",
+          "date": "2026-06-21",
+          "homeTeam": "BEL",
+          "awayTeam": "IRA",
+          "homeScore": 3,
+          "awayScore": 0,
+          "ground": "Los Angeles (Inglewood)",
+          "odds": {
+            "homeWin": 1.4,
+            "draw": 4.5,
+            "awayWin": 8.0
+          }
+        },
+        {
+          "matchId": 40,
+          "round": "Matchday 11",
+          "date": "2026-06-21",
+          "homeTeam": "NZL",
+          "awayTeam": "EGY",
+          "homeScore": 0,
+          "awayScore": 2,
+          "ground": "Vancouver",
+          "odds": {
+            "homeWin": 3.8,
+            "draw": 3.4,
+            "awayWin": 2.0
+          }
+        },
+        {
+          "matchId": 41,
+          "round": "Matchday 16",
+          "date": "2026-06-26",
+          "homeTeam": "EGY",
+          "awayTeam": "IRA",
+          "homeScore": 1,
+          "awayScore": 1,
+          "ground": "Seattle",
+          "odds": {
+            "homeWin": 2.4,
+            "draw": 3.2,
+            "awayWin": 3.0
+          }
+        },
+        {
+          "matchId": 42,
+          "round": "Matchday 16",
+          "date": "2026-06-26",
+          "homeTeam": "NZL",
+          "awayTeam": "BEL",
+          "homeScore": 0,
+          "awayScore": 3,
+          "ground": "Vancouver",
+          "odds": {
+            "homeWin": 10.0,
+            "draw": 5.5,
+            "awayWin": 1.3
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group H",
+      "teams": [
+        {
+          "id": "CPV",
+          "name": "Cape Verde"
+        },
+        {
+          "id": "SAU",
+          "name": "Saudi Arabia"
+        },
+        {
+          "id": "SPA",
+          "name": "Spain"
+        },
+        {
+          "id": "URU",
+          "name": "Uruguay"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 43,
+          "round": "Matchday 5",
+          "date": "2026-06-15",
+          "homeTeam": "SPA",
+          "awayTeam": "CPV",
+          "homeScore": 4,
+          "awayScore": 0,
+          "ground": "Atlanta",
+          "odds": {
+            "homeWin": 1.1,
+            "draw": 8.0,
+            "awayWin": 20.0
+          }
+        },
+        {
+          "matchId": 44,
+          "round": "Matchday 5",
+          "date": "2026-06-15",
+          "homeTeam": "SAU",
+          "awayTeam": "URU",
+          "homeScore": 0,
+          "awayScore": 2,
+          "ground": "Miami (Miami Gardens)",
+          "odds": {
+            "homeWin": 4.5,
+            "draw": 3.6,
+            "awayWin": 1.75
+          }
+        },
+        {
+          "matchId": 45,
+          "round": "Matchday 11",
+          "date": "2026-06-21",
+          "homeTeam": "SPA",
+          "awayTeam": "SAU",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "Atlanta",
+          "odds": {
+            "homeWin": 1.25,
+            "draw": 5.5,
+            "awayWin": 12.0
+          }
+        },
+        {
+          "matchId": 46,
+          "round": "Matchday 11",
+          "date": "2026-06-21",
+          "homeTeam": "URU",
+          "awayTeam": "CPV",
+          "homeScore": 3,
+          "awayScore": 0,
+          "ground": "Miami (Miami Gardens)",
+          "odds": {
+            "homeWin": 1.2,
+            "draw": 6.0,
+            "awayWin": 15.0
+          }
+        },
+        {
+          "matchId": 47,
+          "round": "Matchday 16",
+          "date": "2026-06-26",
+          "homeTeam": "CPV",
+          "awayTeam": "SAU",
+          "homeScore": 1,
+          "awayScore": 2,
+          "ground": "Houston",
+          "odds": {
+            "homeWin": 3.6,
+            "draw": 3.4,
+            "awayWin": 2.05
+          }
+        },
+        {
+          "matchId": 48,
+          "round": "Matchday 16",
+          "date": "2026-06-26",
+          "homeTeam": "URU",
+          "awayTeam": "SPA",
+          "homeScore": 1,
+          "awayScore": 1,
+          "ground": "Guadalajara (Zapopan)",
+          "odds": {
+            "homeWin": 2.8,
+            "draw": 3.2,
+            "awayWin": 2.6
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group I",
+      "teams": [
+        {
+          "id": "FRA",
+          "name": "France"
+        },
+        {
+          "id": "IRQ",
+          "name": "Iraq"
+        },
+        {
+          "id": "NOR",
+          "name": "Norway"
+        },
+        {
+          "id": "SEN",
+          "name": "Senegal"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 49,
+          "round": "Matchday 6",
+          "date": "2026-06-16",
+          "homeTeam": "FRA",
+          "awayTeam": "SEN",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "New York/New Jersey (East Rutherford)",
+          "odds": {
+            "homeWin": 1.45,
+            "draw": 4.2,
+            "awayWin": 7.5
+          }
+        },
+        {
+          "matchId": 50,
+          "round": "Matchday 6",
+          "date": "2026-06-16",
+          "homeTeam": "IRQ",
+          "awayTeam": "NOR",
+          "homeScore": 0,
+          "awayScore": 1,
+          "ground": "Boston (Foxborough)",
+          "odds": {
+            "homeWin": 3.2,
+            "draw": 3.3,
+            "awayWin": 2.25
+          }
+        },
+        {
+          "matchId": 51,
+          "round": "Matchday 12",
+          "date": "2026-06-22",
+          "homeTeam": "FRA",
+          "awayTeam": "IRQ",
+          "homeScore": 4,
+          "awayScore": 0,
+          "ground": "Philadelphia",
+          "odds": {
+            "homeWin": 1.05,
+            "draw": 12.0,
+            "awayWin": 25.0
+          }
+        },
+        {
+          "matchId": 52,
+          "round": "Matchday 12",
+          "date": "2026-06-22",
+          "homeTeam": "NOR",
+          "awayTeam": "SEN",
+          "homeScore": 1,
+          "awayScore": 2,
+          "ground": "New York/New Jersey (East Rutherford)",
+          "odds": {
+            "homeWin": 2.4,
+            "draw": 3.2,
+            "awayWin": 3.0
+          }
+        },
+        {
+          "matchId": 53,
+          "round": "Matchday 16",
+          "date": "2026-06-26",
+          "homeTeam": "NOR",
+          "awayTeam": "FRA",
+          "homeScore": 0,
+          "awayScore": 3,
+          "ground": "Boston (Foxborough)",
+          "odds": {
+            "homeWin": 7.5,
+            "draw": 4.5,
+            "awayWin": 1.42
+          }
+        },
+        {
+          "matchId": 54,
+          "round": "Matchday 16",
+          "date": "2026-06-26",
+          "homeTeam": "SEN",
+          "awayTeam": "IRQ",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "Toronto",
+          "odds": {
+            "homeWin": 1.55,
+            "draw": 3.8,
+            "awayWin": 6.5
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group J",
+      "teams": [
+        {
+          "id": "ALG",
+          "name": "Algeria"
+        },
+        {
+          "id": "ARG",
+          "name": "Argentina"
+        },
+        {
+          "id": "AUT",
+          "name": "Austria"
+        },
+        {
+          "id": "JOR",
+          "name": "Jordan"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 55,
+          "round": "Matchday 6",
+          "date": "2026-06-16",
+          "homeTeam": "ARG",
+          "awayTeam": "ALG",
+          "homeScore": 3,
+          "awayScore": 0,
+          "ground": "Kansas City",
+          "odds": {
+            "homeWin": 1.25,
+            "draw": 5.5,
+            "awayWin": 12.0
+          }
+        },
+        {
+          "matchId": 56,
+          "round": "Matchday 6",
+          "date": "2026-06-16",
+          "homeTeam": "AUT",
+          "awayTeam": "JOR",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "San Francisco Bay Area (Santa Clara)",
+          "odds": {
+            "homeWin": 1.35,
+            "draw": 4.5,
+            "awayWin": 9.0
+          }
+        },
+        {
+          "matchId": 57,
+          "round": "Matchday 12",
+          "date": "2026-06-22",
+          "homeTeam": "ARG",
+          "awayTeam": "AUT",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "Dallas (Arlington)",
+          "odds": {
+            "homeWin": 1.4,
+            "draw": 4.5,
+            "awayWin": 8.0
+          }
+        },
+        {
+          "matchId": 58,
+          "round": "Matchday 12",
+          "date": "2026-06-22",
+          "homeTeam": "JOR",
+          "awayTeam": "ALG",
+          "homeScore": 1,
+          "awayScore": 2,
+          "ground": "San Francisco Bay Area (Santa Clara)",
+          "odds": {
+            "homeWin": 3.4,
+            "draw": 3.3,
+            "awayWin": 2.15
+          }
+        },
+        {
+          "matchId": 59,
+          "round": "Matchday 17",
+          "date": "2026-06-27",
+          "homeTeam": "ALG",
+          "awayTeam": "AUT",
+          "homeScore": 1,
+          "awayScore": 1,
+          "ground": "Kansas City",
+          "odds": {
+            "homeWin": 2.6,
+            "draw": 3.2,
+            "awayWin": 2.8
+          }
+        },
+        {
+          "matchId": 60,
+          "round": "Matchday 17",
+          "date": "2026-06-27",
+          "homeTeam": "JOR",
+          "awayTeam": "ARG",
+          "homeScore": 0,
+          "awayScore": 4,
+          "ground": "Dallas (Arlington)",
+          "odds": {
+            "homeWin": 15.0,
+            "draw": 6.5,
+            "awayWin": 1.18
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group K",
+      "teams": [
+        {
+          "id": "COL",
+          "name": "Colombia"
+        },
+        {
+          "id": "COD",
+          "name": "DR Congo"
+        },
+        {
+          "id": "POR",
+          "name": "Portugal"
+        },
+        {
+          "id": "UZB",
+          "name": "Uzbekistan"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 61,
+          "round": "Matchday 7",
+          "date": "2026-06-17",
+          "homeTeam": "POR",
+          "awayTeam": "COD",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "Houston",
+          "odds": {
+            "homeWin": 1.35,
+            "draw": 4.5,
+            "awayWin": 9.0
+          }
+        },
+        {
+          "matchId": 62,
+          "round": "Matchday 7",
+          "date": "2026-06-17",
+          "homeTeam": "UZB",
+          "awayTeam": "COL",
+          "homeScore": 0,
+          "awayScore": 3,
+          "ground": "Mexico City",
+          "odds": {
+            "homeWin": 4.5,
+            "draw": 3.6,
+            "awayWin": 1.75
+          }
+        },
+        {
+          "matchId": 63,
+          "round": "Matchday 13",
+          "date": "2026-06-23",
+          "homeTeam": "POR",
+          "awayTeam": "UZB",
+          "homeScore": 4,
+          "awayScore": 0,
+          "ground": "Houston",
+          "odds": {
+            "homeWin": 1.08,
+            "draw": 10.0,
+            "awayWin": 22.0
+          }
+        },
+        {
+          "matchId": 64,
+          "round": "Matchday 13",
+          "date": "2026-06-23",
+          "homeTeam": "COL",
+          "awayTeam": "COD",
+          "homeScore": 2,
+          "awayScore": 1,
+          "ground": "Guadalajara (Zapopan)",
+          "odds": {
+            "homeWin": 1.65,
+            "draw": 3.6,
+            "awayWin": 5.5
+          }
+        },
+        {
+          "matchId": 65,
+          "round": "Matchday 17",
+          "date": "2026-06-27",
+          "homeTeam": "COL",
+          "awayTeam": "POR",
+          "homeScore": 1,
+          "awayScore": 2,
+          "ground": "Miami (Miami Gardens)",
+          "odds": {
+            "homeWin": 2.8,
+            "draw": 3.3,
+            "awayWin": 2.5
+          }
+        },
+        {
+          "matchId": 66,
+          "round": "Matchday 17",
+          "date": "2026-06-27",
+          "homeTeam": "COD",
+          "awayTeam": "UZB",
+          "homeScore": 2,
+          "awayScore": 0,
+          "ground": "Atlanta",
+          "odds": {
+            "homeWin": 1.55,
+            "draw": 3.8,
+            "awayWin": 6.5
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group L",
+      "teams": [
+        {
+          "id": "CRO",
+          "name": "Croatia"
+        },
+        {
+          "id": "ENG",
+          "name": "England"
+        },
+        {
+          "id": "GHA",
+          "name": "Ghana"
+        },
+        {
+          "id": "PAN",
+          "name": "Panama"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 67,
+          "round": "Matchday 7",
+          "date": "2026-06-17",
+          "homeTeam": "ENG",
+          "awayTeam": "CRO",
+          "homeScore": 2,
+          "awayScore": 1,
+          "ground": "Dallas (Arlington)",
+          "odds": {
+            "homeWin": 1.8,
+            "draw": 3.4,
+            "awayWin": 4.6
+          }
+        },
+        {
+          "matchId": 68,
+          "round": "Matchday 7",
+          "date": "2026-06-17",
+          "homeTeam": "GHA",
+          "awayTeam": "PAN",
+          "homeScore": 3,
+          "awayScore": 1,
+          "ground": "Toronto",
+          "odds": {
+            "homeWin": 1.45,
+            "draw": 4.2,
+            "awayWin": 7.5
+          }
+        },
+        {
+          "matchId": 69,
+          "round": "Matchday 13",
+          "date": "2026-06-23",
+          "homeTeam": "ENG",
+          "awayTeam": "GHA",
+          "homeScore": 1,
+          "awayScore": 0,
+          "ground": "Boston (Foxborough)",
+          "odds": {
+            "homeWin": 1.5,
+            "draw": 4.0,
+            "awayWin": 7.0
+          }
+        },
+        {
+          "matchId": 70,
+          "round": "Matchday 13",
+          "date": "2026-06-23",
+          "homeTeam": "PAN",
+          "awayTeam": "CRO",
+          "homeScore": 0,
+          "awayScore": 2,
+          "ground": "Toronto",
+          "odds": {
+            "homeWin": 5.5,
+            "draw": 3.8,
+            "awayWin": 1.65
+          }
+        },
+        {
+          "matchId": 71,
+          "round": "Matchday 17",
+          "date": "2026-06-27",
+          "homeTeam": "PAN",
+          "awayTeam": "ENG",
+          "homeScore": 0,
+          "awayScore": 3,
+          "ground": "New York/New Jersey (East Rutherford)",
+          "odds": {
+            "homeWin": 12.0,
+            "draw": 6.0,
+            "awayWin": 1.25
+          }
+        },
+        {
+          "matchId": 72,
+          "round": "Matchday 17",
+          "date": "2026-06-27",
+          "homeTeam": "CRO",
+          "awayTeam": "GHA",
+          "homeScore": 1,
+          "awayScore": 1,
+          "ground": "Philadelphia",
+          "odds": {
+            "homeWin": 1.9,
+            "draw": 3.4,
+            "awayWin": 4.2
+          }
+        }
+      ]
+    }
+  ],
+  "knockouts": [
+    {
+      "matchId": 73,
+      "round": "Round of 32",
+      "date": "2026-06-28",
+      "homeTeam": "MEX",
+      "awayTeam": "SUI",
+      "homeScore": 2,
+      "awayScore": 1,
+      "ground": "Los Angeles (Inglewood)",
+      "homePlaceholder": "1A",
+      "awayPlaceholder": "2B",
+      "odds": {
+        "homeWin": 1.7,
+        "draw": 3.5,
+        "awayWin": 5.0
+      }
+    },
+    {
+      "matchId": 74,
+      "round": "Round of 32",
+      "date": "2026-06-29",
+      "homeTeam": "CAN",
+      "awayTeam": "CZE",
+      "homeScore": 1,
+      "awayScore": 0,
+      "ground": "Boston (Foxborough)",
+      "homePlaceholder": "1B",
+      "awayPlaceholder": "2A",
+      "odds": {
+        "homeWin": 1.8,
+        "draw": 3.4,
+        "awayWin": 4.6
+      }
+    },
+    {
+      "matchId": 75,
+      "round": "Round of 32",
+      "date": "2026-06-29",
+      "homeTeam": "BRA",
+      "awayTeam": "TUR",
+      "homeScore": 3,
+      "awayScore": 1,
+      "ground": "Monterrey (Guadalupe)",
+      "homePlaceholder": "1C",
+      "awayPlaceholder": "2D",
+      "odds": {
+        "homeWin": 1.5,
+        "draw": 4.0,
+        "awayWin": 7.0
+      }
+    },
+    {
+      "matchId": 76,
+      "round": "Round of 32",
+      "date": "2026-06-29",
+      "homeTeam": "USA",
+      "awayTeam": "MOR",
+      "homeScore": 2,
+      "awayScore": 0,
+      "ground": "Houston",
+      "homePlaceholder": "1D",
+      "awayPlaceholder": "2C",
+      "odds": {
+        "homeWin": 1.9,
+        "draw": 3.4,
+        "awayWin": 4.2
+      }
+    },
+    {
+      "matchId": 77,
+      "round": "Round of 32",
+      "date": "2026-06-30",
+      "homeTeam": "GER",
+      "awayTeam": "JAP",
+      "homeScore": 3,
+      "awayScore": 0,
+      "ground": "New York/New Jersey (East Rutherford)",
+      "homePlaceholder": "1E",
+      "awayPlaceholder": "2F",
+      "odds": {
+        "homeWin": 1.55,
+        "draw": 4.0,
+        "awayWin": 6.0
+      }
+    },
+    {
+      "matchId": 78,
+      "round": "Round of 32",
+      "date": "2026-06-30",
+      "homeTeam": "NED",
+      "awayTeam": "ECU",
+      "homeScore": 2,
+      "awayScore": 1,
+      "ground": "Dallas (Arlington)",
+      "homePlaceholder": "1F",
+      "awayPlaceholder": "2E",
+      "odds": {
+        "homeWin": 1.65,
+        "draw": 3.6,
+        "awayWin": 5.5
+      }
+    },
+    {
+      "matchId": 79,
+      "round": "Round of 32",
+      "date": "2026-06-30",
+      "homeTeam": "BEL",
+      "awayTeam": "URU",
+      "homeScore": 2,
+      "awayScore": 1,
+      "ground": "Mexico City",
+      "homePlaceholder": "1G",
+      "awayPlaceholder": "2H",
+      "odds": {
+        "homeWin": 1.85,
+        "draw": 3.4,
+        "awayWin": 4.4
+      }
+    },
+    {
+      "matchId": 80,
+      "round": "Round of 32",
+      "date": "2026-07-01",
+      "homeTeam": "SPA",
+      "awayTeam": "EGY",
+      "homeScore": 3,
+      "awayScore": 0,
+      "ground": "Atlanta",
+      "homePlaceholder": "1H",
+      "awayPlaceholder": "2G",
+      "odds": {
+        "homeWin": 1.4,
+        "draw": 4.5,
+        "awayWin": 8.0
+      }
+    },
+    {
+      "matchId": 81,
+      "round": "Round of 32",
+      "date": "2026-07-01",
+      "homeTeam": "FRA",
+      "awayTeam": "AUT",
+      "homeScore": 2,
+      "awayScore": 0,
+      "ground": "San Francisco Bay Area (Santa Clara)",
+      "homePlaceholder": "1I",
+      "awayPlaceholder": "2J",
+      "odds": {
+        "homeWin": 1.35,
+        "draw": 4.5,
+        "awayWin": 9.0
+      }
+    },
+    {
+      "matchId": 82,
+      "round": "Round of 32",
+      "date": "2026-07-01",
+      "homeTeam": "ARG",
+      "awayTeam": "SEN",
+      "homeScore": 3,
+      "awayScore": 1,
+      "ground": "Seattle",
+      "homePlaceholder": "1J",
+      "awayPlaceholder": "2I",
+      "odds": {
+        "homeWin": 1.45,
+        "draw": 4.2,
+        "awayWin": 7.5
+      }
+    },
+    {
+      "matchId": 83,
+      "round": "Round of 32",
+      "date": "2026-07-02",
+      "homeTeam": "POR",
+      "awayTeam": "CRO",
+      "homeScore": 2,
+      "awayScore": 1,
+      "ground": "Toronto",
+      "homePlaceholder": "1K",
+      "awayPlaceholder": "2L",
+      "odds": {
+        "homeWin": 1.75,
+        "draw": 3.5,
+        "awayWin": 4.8
+      }
+    },
+    {
+      "matchId": 84,
+      "round": "Round of 32",
+      "date": "2026-07-02",
+      "homeTeam": "ENG",
+      "awayTeam": "COL",
+      "homeScore": 2,
+      "awayScore": 0,
+      "ground": "Los Angeles (Inglewood)",
+      "homePlaceholder": "1L",
+      "awayPlaceholder": "2K",
+      "odds": {
+        "homeWin": 1.6,
+        "draw": 3.8,
+        "awayWin": 5.5
+      }
+    },
+    {
+      "matchId": 85,
+      "round": "Round of 32",
+      "date": "2026-07-02",
+      "homeTeam": "KOR",
+      "awayTeam": "AUS",
+      "homeScore": 2,
+      "awayScore": 1,
+      "ground": "Vancouver",
+      "homePlaceholder": "3A",
+      "awayPlaceholder": "3D",
+      "odds": {
+        "homeWin": 2.1,
+        "draw": 3.3,
+        "awayWin": 3.5
+      }
+    },
+    {
+      "matchId": 86,
+      "round": "Round of 32",
+      "date": "2026-07-03",
+      "homeTeam": "IRA",
+      "awayTeam": "ALG",
+      "homeScore": 1,
+      "awayScore": 0,
+      "ground": "Miami (Miami Gardens)",
+      "homePlaceholder": "3G",
+      "awayPlaceholder": "3J",
+      "odds": {
+        "homeWin": 2.4,
+        "draw": 3.2,
+        "awayWin": 3.0
+      }
+    },
+    {
+      "matchId": 87,
+      "round": "Round of 32",
+      "date": "2026-07-03",
+      "homeTeam": "SCO",
+      "awayTeam": "GHA",
+      "homeScore": 1,
+      "awayScore": 2,
+      "ground": "Kansas City",
+      "homePlaceholder": "3C",
+      "awayPlaceholder": "3L",
+      "odds": {
+        "homeWin": 2.2,
+        "draw": 3.3,
+        "awayWin": 3.4
+      }
+    },
+    {
+      "matchId": 88,
+      "round": "Round of 32",
+      "date": "2026-07-03",
+      "homeTeam": "IVO",
+      "awayTeam": "COD",
+      "homeScore": 2,
+      "awayScore": 0,
+      "ground": "Dallas (Arlington)",
+      "homePlaceholder": "3E",
+      "awayPlaceholder": "3K",
+      "odds": {
+        "homeWin": 1.9,
+        "draw": 3.4,
+        "awayWin": 4.2
+      }
+    },
+    {
+      "matchId": 89,
+      "round": "Round of 16",
+      "date": "2026-07-04",
+      "homeTeam": "MEX",
+      "awayTeam": "CAN",
+      "homeScore": 2,
+      "awayScore": 1,
+      "ground": "Philadelphia",
+      "homePlaceholder": "W73",
+      "awayPlaceholder": "W74",
+      "odds": {
+        "homeWin": 1.9,
+        "draw": 3.4,
+        "awayWin": 4.2
+      }
+    },
+    {
+      "matchId": 90,
+      "round": "Round of 16",
+      "date": "2026-07-04",
+      "homeTeam": "BRA",
+      "awayTeam": "USA",
+      "homeScore": 3,
+      "awayScore": 0,
+      "ground": "Houston",
+      "homePlaceholder": "W75",
+      "awayPlaceholder": "W76",
+      "odds": {
+        "homeWin": 1.55,
+        "draw": 4.0,
+        "awayWin": 6.0
+      }
+    },
+    {
+      "matchId": 91,
+      "round": "Round of 16",
+      "date": "2026-07-05",
+      "homeTeam": "GER",
+      "awayTeam": "NED",
+      "homeScore": 2,
+      "awayScore": 1,
+      "ground": "New York/New Jersey (East Rutherford)",
+      "homePlaceholder": "W77",
+      "awayPlaceholder": "W78",
+      "odds": {
+        "homeWin": 1.8,
+        "draw": 3.4,
+        "awayWin": 4.6
+      }
+    },
+    {
+      "matchId": 92,
+      "round": "Round of 16",
+      "date": "2026-07-05",
+      "homeTeam": "BEL",
+      "awayTeam": "SPA",
+      "homeScore": 1,
+      "awayScore": 2,
+      "ground": "Mexico City",
+      "homePlaceholder": "W79",
+      "awayPlaceholder": "W80",
+      "odds": {
+        "homeWin": 2.4,
+        "draw": 3.2,
+        "awayWin": 3.0
+      }
+    },
+    {
+      "matchId": 93,
+      "round": "Round of 16",
+      "date": "2026-07-06",
+      "homeTeam": "FRA",
+      "awayTeam": "ARG",
+      "homeScore": 2,
+      "awayScore": 1,
+      "ground": "Dallas (Arlington)",
+      "homePlaceholder": "W81",
+      "awayPlaceholder": "W82",
+      "odds": {
+        "homeWin": 1.85,
+        "draw": 3.4,
+        "awayWin": 4.4
+      }
+    },
+    {
+      "matchId": 94,
+      "round": "Round of 16",
+      "date": "2026-07-06",
+      "homeTeam": "POR",
+      "awayTeam": "ENG",
+      "homeScore": 0,
+      "awayScore": 1,
+      "ground": "Seattle",
+      "homePlaceholder": "W83",
+      "awayPlaceholder": "W84",
+      "odds": {
+        "homeWin": 2.6,
+        "draw": 3.2,
+        "awayWin": 2.8
+      }
+    },
+    {
+      "matchId": 95,
+      "round": "Round of 16",
+      "date": "2026-07-07",
+      "homeTeam": "KOR",
+      "awayTeam": "IRA",
+      "homeScore": 2,
+      "awayScore": 0,
+      "ground": "Atlanta",
+      "homePlaceholder": "W85",
+      "awayPlaceholder": "W86",
+      "odds": {
+        "homeWin": 1.75,
+        "draw": 3.5,
+        "awayWin": 4.8
+      }
+    },
+    {
+      "matchId": 96,
+      "round": "Round of 16",
+      "date": "2026-07-07",
+      "homeTeam": "GHA",
+      "awayTeam": "IVO",
+      "homeScore": 1,
+      "awayScore": 0,
+      "ground": "Vancouver",
+      "homePlaceholder": "W87",
+      "awayPlaceholder": "W88",
+      "odds": {
+        "homeWin": 2.4,
+        "draw": 3.2,
+        "awayWin": 3.0
+      }
+    },
+    {
+      "matchId": 97,
+      "round": "Quarter-final",
+      "date": "2026-07-09",
+      "homeTeam": "MEX",
+      "awayTeam": "BRA",
+      "homeScore": 2,
+      "awayScore": 3,
+      "ground": "Boston (Foxborough)",
+      "homePlaceholder": "W89",
+      "awayPlaceholder": "W90",
+      "odds": {
+        "homeWin": 3.2,
+        "draw": 3.3,
+        "awayWin": 2.25
+      }
+    },
+    {
+      "matchId": 98,
+      "round": "Quarter-final",
+      "date": "2026-07-10",
+      "homeTeam": "GER",
+      "awayTeam": "SPA",
+      "homeScore": 1,
+      "awayScore": 2,
+      "ground": "Los Angeles (Inglewood)",
+      "homePlaceholder": "W91",
+      "awayPlaceholder": "W92",
+      "odds": {
+        "homeWin": 1.9,
+        "draw": 3.4,
+        "awayWin": 4.2
+      }
+    },
+    {
+      "matchId": 99,
+      "round": "Quarter-final",
+      "date": "2026-07-11",
+      "homeTeam": "FRA",
+      "awayTeam": "ENG",
+      "homeScore": 1,
+      "awayScore": 0,
+      "ground": "Miami (Miami Gardens)",
+      "homePlaceholder": "W93",
+      "awayPlaceholder": "W94",
+      "odds": {
+        "homeWin": 1.8,
+        "draw": 3.4,
+        "awayWin": 4.6
+      }
+    },
+    {
+      "matchId": 100,
+      "round": "Quarter-final",
+      "date": "2026-07-11",
+      "homeTeam": "KOR",
+      "awayTeam": "GHA",
+      "homeScore": 2,
+      "awayScore": 1,
+      "ground": "Kansas City",
+      "homePlaceholder": "W95",
+      "awayPlaceholder": "W96",
+      "odds": {
+        "homeWin": 1.7,
+        "draw": 3.6,
+        "awayWin": 5.0
+      }
+    },
+    {
+      "matchId": 101,
+      "round": "Semi-final",
+      "date": "2026-07-14",
+      "homeTeam": "BRA",
+      "awayTeam": "SPA",
+      "homeScore": 2,
+      "awayScore": 1,
+      "ground": "Dallas (Arlington)",
+      "homePlaceholder": "W97",
+      "awayPlaceholder": "W98",
+      "odds": {
+        "homeWin": 1.75,
+        "draw": 3.5,
+        "awayWin": 4.8
+      }
+    },
+    {
+      "matchId": 102,
+      "round": "Semi-final",
+      "date": "2026-07-15",
+      "homeTeam": "FRA",
+      "awayTeam": "KOR",
+      "homeScore": 3,
+      "awayScore": 0,
+      "ground": "Atlanta",
+      "homePlaceholder": "W99",
+      "awayPlaceholder": "W100",
+      "odds": {
+        "homeWin": 1.3,
+        "draw": 5.0,
+        "awayWin": 10.0
+      }
+    },
+    {
+      "matchId": 103,
+      "round": "Match for third place",
+      "date": "2026-07-18",
+      "homeTeam": "SPA",
+      "awayTeam": "KOR",
+      "homeScore": 2,
+      "awayScore": 0,
+      "ground": "Miami (Miami Gardens)",
+      "homePlaceholder": "L101",
+      "awayPlaceholder": "L102",
+      "odds": {
+        "homeWin": 1.55,
+        "draw": 3.8,
+        "awayWin": 6.5
+      }
+    },
+    {
+      "matchId": 104,
+      "round": "Final",
+      "date": "2026-07-19",
+      "homeTeam": "BRA",
+      "awayTeam": "FRA",
+      "homeScore": 2,
+      "awayScore": 3,
+      "ground": "New York/New Jersey (East Rutherford)",
+      "homePlaceholder": "W101",
+      "awayPlaceholder": "W102",
+      "odds": {
+        "homeWin": 2.1,
+        "draw": 3.3,
+        "awayWin": 3.5
+      }
+    }
+  ]
+}

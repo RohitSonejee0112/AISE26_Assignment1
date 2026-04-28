@@ -1,0 +1,1323 @@
+{
+  "tournament": "World Cup 2026",
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        {
+          "id": "CZE",
+          "name": "Czech Republic"
+        },
+        {
+          "id": "KOR",
+          "name": "South Korea"
+        },
+        {
+          "id": "MEX",
+          "name": "Mexico"
+        },
+        {
+          "id": "RSA",
+          "name": "South Africa"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 1,
+          "round": "Matchday 1",
+          "date": "2026-06-11",
+          "homeTeam": "MEX",
+          "awayTeam": "RSA",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Mexico City"
+        },
+        {
+          "matchId": 2,
+          "round": "Matchday 1",
+          "date": "2026-06-11",
+          "homeTeam": "KOR",
+          "awayTeam": "CZE",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Guadalajara (Zapopan)"
+        },
+        {
+          "matchId": 3,
+          "round": "Matchday 8",
+          "date": "2026-06-18",
+          "homeTeam": "CZE",
+          "awayTeam": "RSA",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Atlanta"
+        },
+        {
+          "matchId": 4,
+          "round": "Matchday 8",
+          "date": "2026-06-18",
+          "homeTeam": "MEX",
+          "awayTeam": "KOR",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Guadalajara (Zapopan)"
+        },
+        {
+          "matchId": 5,
+          "round": "Matchday 14",
+          "date": "2026-06-24",
+          "homeTeam": "CZE",
+          "awayTeam": "MEX",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Mexico City"
+        },
+        {
+          "matchId": 6,
+          "round": "Matchday 14",
+          "date": "2026-06-24",
+          "homeTeam": "RSA",
+          "awayTeam": "KOR",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Monterrey (Guadalupe)"
+        }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        {
+          "id": "BIH",
+          "name": "Bosnia & Herzegovina"
+        },
+        {
+          "id": "CAN",
+          "name": "Canada"
+        },
+        {
+          "id": "QAT",
+          "name": "Qatar"
+        },
+        {
+          "id": "SUI",
+          "name": "Switzerland"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 7,
+          "round": "Matchday 2",
+          "date": "2026-06-12",
+          "homeTeam": "CAN",
+          "awayTeam": "BIH",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Toronto"
+        },
+        {
+          "matchId": 8,
+          "round": "Matchday 3",
+          "date": "2026-06-13",
+          "homeTeam": "QAT",
+          "awayTeam": "SUI",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "San Francisco Bay Area (Santa Clara)"
+        },
+        {
+          "matchId": 9,
+          "round": "Matchday 8",
+          "date": "2026-06-18",
+          "homeTeam": "SUI",
+          "awayTeam": "BIH",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Los Angeles (Inglewood)"
+        },
+        {
+          "matchId": 10,
+          "round": "Matchday 8",
+          "date": "2026-06-18",
+          "homeTeam": "CAN",
+          "awayTeam": "QAT",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Vancouver"
+        },
+        {
+          "matchId": 11,
+          "round": "Matchday 14",
+          "date": "2026-06-24",
+          "homeTeam": "SUI",
+          "awayTeam": "CAN",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Vancouver"
+        },
+        {
+          "matchId": 12,
+          "round": "Matchday 14",
+          "date": "2026-06-24",
+          "homeTeam": "BIH",
+          "awayTeam": "QAT",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Seattle"
+        }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        {
+          "id": "BRA",
+          "name": "Brazil"
+        },
+        {
+          "id": "HAI",
+          "name": "Haiti"
+        },
+        {
+          "id": "MOR",
+          "name": "Morocco"
+        },
+        {
+          "id": "SCO",
+          "name": "Scotland"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 13,
+          "round": "Matchday 3",
+          "date": "2026-06-13",
+          "homeTeam": "BRA",
+          "awayTeam": "MOR",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "New York/New Jersey (East Rutherford)"
+        },
+        {
+          "matchId": 14,
+          "round": "Matchday 3",
+          "date": "2026-06-13",
+          "homeTeam": "HAI",
+          "awayTeam": "SCO",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Boston (Foxborough)"
+        },
+        {
+          "matchId": 15,
+          "round": "Matchday 9",
+          "date": "2026-06-19",
+          "homeTeam": "SCO",
+          "awayTeam": "MOR",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Boston (Foxborough)"
+        },
+        {
+          "matchId": 16,
+          "round": "Matchday 9",
+          "date": "2026-06-19",
+          "homeTeam": "BRA",
+          "awayTeam": "HAI",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Philadelphia"
+        },
+        {
+          "matchId": 17,
+          "round": "Matchday 14",
+          "date": "2026-06-24",
+          "homeTeam": "SCO",
+          "awayTeam": "BRA",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Miami (Miami Gardens)"
+        },
+        {
+          "matchId": 18,
+          "round": "Matchday 14",
+          "date": "2026-06-24",
+          "homeTeam": "MOR",
+          "awayTeam": "HAI",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Atlanta"
+        }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        {
+          "id": "AUS",
+          "name": "Australia"
+        },
+        {
+          "id": "PAR",
+          "name": "Paraguay"
+        },
+        {
+          "id": "TUR",
+          "name": "Turkey"
+        },
+        {
+          "id": "USA",
+          "name": "USA"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 19,
+          "round": "Matchday 2",
+          "date": "2026-06-12",
+          "homeTeam": "USA",
+          "awayTeam": "PAR",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Los Angeles (Inglewood)"
+        },
+        {
+          "matchId": 20,
+          "round": "Matchday 3",
+          "date": "2026-06-13",
+          "homeTeam": "AUS",
+          "awayTeam": "TUR",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Vancouver"
+        },
+        {
+          "matchId": 21,
+          "round": "Matchday 9",
+          "date": "2026-06-19",
+          "homeTeam": "USA",
+          "awayTeam": "AUS",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Seattle"
+        },
+        {
+          "matchId": 22,
+          "round": "Matchday 9",
+          "date": "2026-06-19",
+          "homeTeam": "TUR",
+          "awayTeam": "PAR",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "San Francisco Bay Area (Santa Clara)"
+        },
+        {
+          "matchId": 23,
+          "round": "Matchday 15",
+          "date": "2026-06-25",
+          "homeTeam": "TUR",
+          "awayTeam": "USA",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Los Angeles (Inglewood)"
+        },
+        {
+          "matchId": 24,
+          "round": "Matchday 15",
+          "date": "2026-06-25",
+          "homeTeam": "PAR",
+          "awayTeam": "AUS",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "San Francisco Bay Area (Santa Clara)"
+        }
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        {
+          "id": "CUR",
+          "name": "Cura\u00e7ao"
+        },
+        {
+          "id": "ECU",
+          "name": "Ecuador"
+        },
+        {
+          "id": "GER",
+          "name": "Germany"
+        },
+        {
+          "id": "IVO",
+          "name": "Ivory Coast"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 25,
+          "round": "Matchday 4",
+          "date": "2026-06-14",
+          "homeTeam": "GER",
+          "awayTeam": "CUR",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Houston"
+        },
+        {
+          "matchId": 26,
+          "round": "Matchday 4",
+          "date": "2026-06-14",
+          "homeTeam": "IVO",
+          "awayTeam": "ECU",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Philadelphia"
+        },
+        {
+          "matchId": 27,
+          "round": "Matchday 10",
+          "date": "2026-06-20",
+          "homeTeam": "GER",
+          "awayTeam": "IVO",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Toronto"
+        },
+        {
+          "matchId": 28,
+          "round": "Matchday 10",
+          "date": "2026-06-20",
+          "homeTeam": "ECU",
+          "awayTeam": "CUR",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Kansas City"
+        },
+        {
+          "matchId": 29,
+          "round": "Matchday 15",
+          "date": "2026-06-25",
+          "homeTeam": "CUR",
+          "awayTeam": "IVO",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Philadelphia"
+        },
+        {
+          "matchId": 30,
+          "round": "Matchday 15",
+          "date": "2026-06-25",
+          "homeTeam": "ECU",
+          "awayTeam": "GER",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "New York/New Jersey (East Rutherford)"
+        }
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        {
+          "id": "JAP",
+          "name": "Japan"
+        },
+        {
+          "id": "NED",
+          "name": "Netherlands"
+        },
+        {
+          "id": "SWE",
+          "name": "Sweden"
+        },
+        {
+          "id": "TUN",
+          "name": "Tunisia"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 31,
+          "round": "Matchday 4",
+          "date": "2026-06-14",
+          "homeTeam": "NED",
+          "awayTeam": "JAP",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Dallas (Arlington)"
+        },
+        {
+          "matchId": 32,
+          "round": "Matchday 4",
+          "date": "2026-06-14",
+          "homeTeam": "SWE",
+          "awayTeam": "TUN",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Monterrey (Guadalupe)"
+        },
+        {
+          "matchId": 33,
+          "round": "Matchday 10",
+          "date": "2026-06-20",
+          "homeTeam": "NED",
+          "awayTeam": "SWE",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Houston"
+        },
+        {
+          "matchId": 34,
+          "round": "Matchday 10",
+          "date": "2026-06-20",
+          "homeTeam": "TUN",
+          "awayTeam": "JAP",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Monterrey (Guadalupe)"
+        },
+        {
+          "matchId": 35,
+          "round": "Matchday 15",
+          "date": "2026-06-25",
+          "homeTeam": "JAP",
+          "awayTeam": "SWE",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Dallas (Arlington)"
+        },
+        {
+          "matchId": 36,
+          "round": "Matchday 15",
+          "date": "2026-06-25",
+          "homeTeam": "TUN",
+          "awayTeam": "NED",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Kansas City"
+        }
+      ]
+    },
+    {
+      "name": "Group G",
+      "teams": [
+        {
+          "id": "BEL",
+          "name": "Belgium"
+        },
+        {
+          "id": "EGY",
+          "name": "Egypt"
+        },
+        {
+          "id": "IRA",
+          "name": "Iran"
+        },
+        {
+          "id": "NZL",
+          "name": "New Zealand"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 37,
+          "round": "Matchday 5",
+          "date": "2026-06-15",
+          "homeTeam": "BEL",
+          "awayTeam": "EGY",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Seattle"
+        },
+        {
+          "matchId": 38,
+          "round": "Matchday 5",
+          "date": "2026-06-15",
+          "homeTeam": "IRA",
+          "awayTeam": "NZL",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Los Angeles (Inglewood)"
+        },
+        {
+          "matchId": 39,
+          "round": "Matchday 11",
+          "date": "2026-06-21",
+          "homeTeam": "BEL",
+          "awayTeam": "IRA",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Los Angeles (Inglewood)"
+        },
+        {
+          "matchId": 40,
+          "round": "Matchday 11",
+          "date": "2026-06-21",
+          "homeTeam": "NZL",
+          "awayTeam": "EGY",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Vancouver"
+        },
+        {
+          "matchId": 41,
+          "round": "Matchday 16",
+          "date": "2026-06-26",
+          "homeTeam": "EGY",
+          "awayTeam": "IRA",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Seattle"
+        },
+        {
+          "matchId": 42,
+          "round": "Matchday 16",
+          "date": "2026-06-26",
+          "homeTeam": "NZL",
+          "awayTeam": "BEL",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Vancouver"
+        }
+      ]
+    },
+    {
+      "name": "Group H",
+      "teams": [
+        {
+          "id": "CPV",
+          "name": "Cape Verde"
+        },
+        {
+          "id": "SAU",
+          "name": "Saudi Arabia"
+        },
+        {
+          "id": "SPA",
+          "name": "Spain"
+        },
+        {
+          "id": "URU",
+          "name": "Uruguay"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 43,
+          "round": "Matchday 5",
+          "date": "2026-06-15",
+          "homeTeam": "SPA",
+          "awayTeam": "CPV",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Atlanta"
+        },
+        {
+          "matchId": 44,
+          "round": "Matchday 5",
+          "date": "2026-06-15",
+          "homeTeam": "SAU",
+          "awayTeam": "URU",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Miami (Miami Gardens)"
+        },
+        {
+          "matchId": 45,
+          "round": "Matchday 11",
+          "date": "2026-06-21",
+          "homeTeam": "SPA",
+          "awayTeam": "SAU",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Atlanta"
+        },
+        {
+          "matchId": 46,
+          "round": "Matchday 11",
+          "date": "2026-06-21",
+          "homeTeam": "URU",
+          "awayTeam": "CPV",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Miami (Miami Gardens)"
+        },
+        {
+          "matchId": 47,
+          "round": "Matchday 16",
+          "date": "2026-06-26",
+          "homeTeam": "CPV",
+          "awayTeam": "SAU",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Houston"
+        },
+        {
+          "matchId": 48,
+          "round": "Matchday 16",
+          "date": "2026-06-26",
+          "homeTeam": "URU",
+          "awayTeam": "SPA",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Guadalajara (Zapopan)"
+        }
+      ]
+    },
+    {
+      "name": "Group I",
+      "teams": [
+        {
+          "id": "FRA",
+          "name": "France"
+        },
+        {
+          "id": "IRA",
+          "name": "Iraq"
+        },
+        {
+          "id": "NOR",
+          "name": "Norway"
+        },
+        {
+          "id": "SEN",
+          "name": "Senegal"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 49,
+          "round": "Matchday 6",
+          "date": "2026-06-16",
+          "homeTeam": "FRA",
+          "awayTeam": "SEN",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "New York/New Jersey (East Rutherford)"
+        },
+        {
+          "matchId": 50,
+          "round": "Matchday 6",
+          "date": "2026-06-16",
+          "homeTeam": "IRA",
+          "awayTeam": "NOR",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Boston (Foxborough)"
+        },
+        {
+          "matchId": 51,
+          "round": "Matchday 12",
+          "date": "2026-06-22",
+          "homeTeam": "FRA",
+          "awayTeam": "IRA",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Philadelphia"
+        },
+        {
+          "matchId": 52,
+          "round": "Matchday 12",
+          "date": "2026-06-22",
+          "homeTeam": "NOR",
+          "awayTeam": "SEN",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "New York/New Jersey (East Rutherford)"
+        },
+        {
+          "matchId": 53,
+          "round": "Matchday 16",
+          "date": "2026-06-26",
+          "homeTeam": "NOR",
+          "awayTeam": "FRA",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Boston (Foxborough)"
+        },
+        {
+          "matchId": 54,
+          "round": "Matchday 16",
+          "date": "2026-06-26",
+          "homeTeam": "SEN",
+          "awayTeam": "IRA",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Toronto"
+        }
+      ]
+    },
+    {
+      "name": "Group J",
+      "teams": [
+        {
+          "id": "ALG",
+          "name": "Algeria"
+        },
+        {
+          "id": "ARG",
+          "name": "Argentina"
+        },
+        {
+          "id": "AUS",
+          "name": "Austria"
+        },
+        {
+          "id": "JOR",
+          "name": "Jordan"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 55,
+          "round": "Matchday 6",
+          "date": "2026-06-16",
+          "homeTeam": "ARG",
+          "awayTeam": "ALG",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Kansas City"
+        },
+        {
+          "matchId": 56,
+          "round": "Matchday 6",
+          "date": "2026-06-16",
+          "homeTeam": "AUS",
+          "awayTeam": "JOR",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "San Francisco Bay Area (Santa Clara)"
+        },
+        {
+          "matchId": 57,
+          "round": "Matchday 12",
+          "date": "2026-06-22",
+          "homeTeam": "ARG",
+          "awayTeam": "AUS",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Dallas (Arlington)"
+        },
+        {
+          "matchId": 58,
+          "round": "Matchday 12",
+          "date": "2026-06-22",
+          "homeTeam": "JOR",
+          "awayTeam": "ALG",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "San Francisco Bay Area (Santa Clara)"
+        },
+        {
+          "matchId": 59,
+          "round": "Matchday 17",
+          "date": "2026-06-27",
+          "homeTeam": "ALG",
+          "awayTeam": "AUS",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Kansas City"
+        },
+        {
+          "matchId": 60,
+          "round": "Matchday 17",
+          "date": "2026-06-27",
+          "homeTeam": "JOR",
+          "awayTeam": "ARG",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Dallas (Arlington)"
+        }
+      ]
+    },
+    {
+      "name": "Group K",
+      "teams": [
+        {
+          "id": "COL",
+          "name": "Colombia"
+        },
+        {
+          "id": "DR ",
+          "name": "DR Congo"
+        },
+        {
+          "id": "POR",
+          "name": "Portugal"
+        },
+        {
+          "id": "UZB",
+          "name": "Uzbekistan"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 61,
+          "round": "Matchday 7",
+          "date": "2026-06-17",
+          "homeTeam": "POR",
+          "awayTeam": "DR ",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Houston"
+        },
+        {
+          "matchId": 62,
+          "round": "Matchday 7",
+          "date": "2026-06-17",
+          "homeTeam": "UZB",
+          "awayTeam": "COL",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Mexico City"
+        },
+        {
+          "matchId": 63,
+          "round": "Matchday 13",
+          "date": "2026-06-23",
+          "homeTeam": "POR",
+          "awayTeam": "UZB",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Houston"
+        },
+        {
+          "matchId": 64,
+          "round": "Matchday 13",
+          "date": "2026-06-23",
+          "homeTeam": "COL",
+          "awayTeam": "DR ",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Guadalajara (Zapopan)"
+        },
+        {
+          "matchId": 65,
+          "round": "Matchday 17",
+          "date": "2026-06-27",
+          "homeTeam": "COL",
+          "awayTeam": "POR",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Miami (Miami Gardens)"
+        },
+        {
+          "matchId": 66,
+          "round": "Matchday 17",
+          "date": "2026-06-27",
+          "homeTeam": "DR ",
+          "awayTeam": "UZB",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Atlanta"
+        }
+      ]
+    },
+    {
+      "name": "Group L",
+      "teams": [
+        {
+          "id": "CRO",
+          "name": "Croatia"
+        },
+        {
+          "id": "ENG",
+          "name": "England"
+        },
+        {
+          "id": "GHA",
+          "name": "Ghana"
+        },
+        {
+          "id": "PAN",
+          "name": "Panama"
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 67,
+          "round": "Matchday 7",
+          "date": "2026-06-17",
+          "homeTeam": "ENG",
+          "awayTeam": "CRO",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Dallas (Arlington)"
+        },
+        {
+          "matchId": 68,
+          "round": "Matchday 7",
+          "date": "2026-06-17",
+          "homeTeam": "GHA",
+          "awayTeam": "PAN",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Toronto"
+        },
+        {
+          "matchId": 69,
+          "round": "Matchday 13",
+          "date": "2026-06-23",
+          "homeTeam": "ENG",
+          "awayTeam": "GHA",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Boston (Foxborough)"
+        },
+        {
+          "matchId": 70,
+          "round": "Matchday 13",
+          "date": "2026-06-23",
+          "homeTeam": "PAN",
+          "awayTeam": "CRO",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Toronto"
+        },
+        {
+          "matchId": 71,
+          "round": "Matchday 17",
+          "date": "2026-06-27",
+          "homeTeam": "PAN",
+          "awayTeam": "ENG",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "New York/New Jersey (East Rutherford)"
+        },
+        {
+          "matchId": 72,
+          "round": "Matchday 17",
+          "date": "2026-06-27",
+          "homeTeam": "CRO",
+          "awayTeam": "GHA",
+          "homeScore": null,
+          "awayScore": null,
+          "ground": "Philadelphia"
+        }
+      ]
+    }
+  ],
+  "knockouts": [
+    {
+      "matchId": 73,
+      "round": "Round of 32",
+      "date": "2026-06-28",
+      "homePlaceholder": "2A",
+      "awayPlaceholder": "2B",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Los Angeles (Inglewood)"
+    },
+    {
+      "matchId": 74,
+      "round": "Round of 32",
+      "date": "2026-06-29",
+      "homePlaceholder": "1E",
+      "awayPlaceholder": "3A/B/C/D/F",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Boston (Foxborough)"
+    },
+    {
+      "matchId": 75,
+      "round": "Round of 32",
+      "date": "2026-06-29",
+      "homePlaceholder": "1F",
+      "awayPlaceholder": "2C",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Monterrey (Guadalupe)"
+    },
+    {
+      "matchId": 76,
+      "round": "Round of 32",
+      "date": "2026-06-29",
+      "homePlaceholder": "1C",
+      "awayPlaceholder": "2F",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Houston"
+    },
+    {
+      "matchId": 77,
+      "round": "Round of 32",
+      "date": "2026-06-30",
+      "homePlaceholder": "1I",
+      "awayPlaceholder": "3C/D/F/G/H",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "New York/New Jersey (East Rutherford)"
+    },
+    {
+      "matchId": 78,
+      "round": "Round of 32",
+      "date": "2026-06-30",
+      "homePlaceholder": "2E",
+      "awayPlaceholder": "2I",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Dallas (Arlington)"
+    },
+    {
+      "matchId": 79,
+      "round": "Round of 32",
+      "date": "2026-06-30",
+      "homePlaceholder": "1A",
+      "awayPlaceholder": "3C/E/F/H/I",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Mexico City"
+    },
+    {
+      "matchId": 80,
+      "round": "Round of 32",
+      "date": "2026-07-01",
+      "homePlaceholder": "1L",
+      "awayPlaceholder": "3E/H/I/J/K",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Atlanta"
+    },
+    {
+      "matchId": 81,
+      "round": "Round of 32",
+      "date": "2026-07-01",
+      "homePlaceholder": "1D",
+      "awayPlaceholder": "3B/E/F/I/J",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "San Francisco Bay Area (Santa Clara)"
+    },
+    {
+      "matchId": 82,
+      "round": "Round of 32",
+      "date": "2026-07-01",
+      "homePlaceholder": "1G",
+      "awayPlaceholder": "3A/E/H/I/J",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Seattle"
+    },
+    {
+      "matchId": 83,
+      "round": "Round of 32",
+      "date": "2026-07-02",
+      "homePlaceholder": "2K",
+      "awayPlaceholder": "2L",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Toronto"
+    },
+    {
+      "matchId": 84,
+      "round": "Round of 32",
+      "date": "2026-07-02",
+      "homePlaceholder": "1H",
+      "awayPlaceholder": "2J",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Los Angeles (Inglewood)"
+    },
+    {
+      "matchId": 85,
+      "round": "Round of 32",
+      "date": "2026-07-02",
+      "homePlaceholder": "1B",
+      "awayPlaceholder": "3E/F/G/I/J",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Vancouver"
+    },
+    {
+      "matchId": 86,
+      "round": "Round of 32",
+      "date": "2026-07-03",
+      "homePlaceholder": "1J",
+      "awayPlaceholder": "2H",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Miami (Miami Gardens)"
+    },
+    {
+      "matchId": 87,
+      "round": "Round of 32",
+      "date": "2026-07-03",
+      "homePlaceholder": "1K",
+      "awayPlaceholder": "3D/E/I/J/L",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Kansas City"
+    },
+    {
+      "matchId": 88,
+      "round": "Round of 32",
+      "date": "2026-07-03",
+      "homePlaceholder": "2D",
+      "awayPlaceholder": "2G",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Dallas (Arlington)"
+    },
+    {
+      "matchId": 89,
+      "round": "Round of 16",
+      "date": "2026-07-04",
+      "homePlaceholder": "W74",
+      "awayPlaceholder": "W77",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Philadelphia"
+    },
+    {
+      "matchId": 90,
+      "round": "Round of 16",
+      "date": "2026-07-04",
+      "homePlaceholder": "W73",
+      "awayPlaceholder": "W75",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Houston"
+    },
+    {
+      "matchId": 91,
+      "round": "Round of 16",
+      "date": "2026-07-05",
+      "homePlaceholder": "W76",
+      "awayPlaceholder": "W78",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "New York/New Jersey (East Rutherford)"
+    },
+    {
+      "matchId": 92,
+      "round": "Round of 16",
+      "date": "2026-07-05",
+      "homePlaceholder": "W79",
+      "awayPlaceholder": "W80",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Mexico City"
+    },
+    {
+      "matchId": 93,
+      "round": "Round of 16",
+      "date": "2026-07-06",
+      "homePlaceholder": "W83",
+      "awayPlaceholder": "W84",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Dallas (Arlington)"
+    },
+    {
+      "matchId": 94,
+      "round": "Round of 16",
+      "date": "2026-07-06",
+      "homePlaceholder": "W81",
+      "awayPlaceholder": "W82",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Seattle"
+    },
+    {
+      "matchId": 95,
+      "round": "Round of 16",
+      "date": "2026-07-07",
+      "homePlaceholder": "W86",
+      "awayPlaceholder": "W88",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Atlanta"
+    },
+    {
+      "matchId": 96,
+      "round": "Round of 16",
+      "date": "2026-07-07",
+      "homePlaceholder": "W85",
+      "awayPlaceholder": "W87",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Vancouver"
+    },
+    {
+      "matchId": 97,
+      "round": "Quarter-final",
+      "date": "2026-07-09",
+      "homePlaceholder": "W89",
+      "awayPlaceholder": "W90",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Boston (Foxborough)"
+    },
+    {
+      "matchId": 98,
+      "round": "Quarter-final",
+      "date": "2026-07-10",
+      "homePlaceholder": "W93",
+      "awayPlaceholder": "W94",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Los Angeles (Inglewood)"
+    },
+    {
+      "matchId": 99,
+      "round": "Quarter-final",
+      "date": "2026-07-11",
+      "homePlaceholder": "W91",
+      "awayPlaceholder": "W92",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Miami (Miami Gardens)"
+    },
+    {
+      "matchId": 100,
+      "round": "Quarter-final",
+      "date": "2026-07-11",
+      "homePlaceholder": "W95",
+      "awayPlaceholder": "W96",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Kansas City"
+    },
+    {
+      "matchId": 101,
+      "round": "Semi-final",
+      "date": "2026-07-14",
+      "homePlaceholder": "W97",
+      "awayPlaceholder": "W98",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Dallas (Arlington)"
+    },
+    {
+      "matchId": 102,
+      "round": "Semi-final",
+      "date": "2026-07-15",
+      "homePlaceholder": "W99",
+      "awayPlaceholder": "W100",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Atlanta"
+    },
+    {
+      "matchId": 103,
+      "round": "Match for third place",
+      "date": "2026-07-18",
+      "homePlaceholder": "L101",
+      "awayPlaceholder": "L102",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "Miami (Miami Gardens)"
+    },
+    {
+      "matchId": 104,
+      "round": "Final",
+      "date": "2026-07-19",
+      "homePlaceholder": "W101",
+      "awayPlaceholder": "W102",
+      "homeScore": null,
+      "awayScore": null,
+      "ground": "New York/New Jersey (East Rutherford)"
+    }
+  ]
+}

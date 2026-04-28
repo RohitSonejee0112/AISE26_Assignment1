@@ -1,0 +1,16 @@
+package de.seuhd.worldcup.model
+
+enum class TournamentPhase {
+    BEFORE_GROUP_STAGE,
+    GROUP_STAGE_OVER,
+    BEFORE_ROUND_OF_32,
+    ROUND_OF_32_OVER,
+    BEFORE_ROUND_OF_16,
+    ROUND_OF_16_OVER,
+    BEFORE_QUARTER_FINAL,
+    QUARTER_FINAL_OVER,
+    BEFORE_SEMI_FINAL,
+    SEMI_FINAL_OVER,
+    BEFORE_FINAL,
+    TOURNAMENT_OVER
+}

@@ -1,0 +1,773 @@
+=======================================================
+BEFORE GROUP STAGE
+=======================================================
+1) Show Standings (Pre-Tournament)
+2) Show Matches
+3) Place Bets
+4) View / Modify Bets
+5) Proceed to Group Stage
+6) Exit
+=======================================================
+Choose: 3
+Choose by number (1-12) or letter (A-L)
+
+[1/A] Group A              [2/B] Group B              [3/C] Group C
+   Czech Republic             Bosnia & Herzegovina       Brazil
+   South Korea                Canada                     Haiti
+   Mexico                     Qatar                      Morocco
+   South Africa               Switzerland                Scotland
+
+[4/D] Group D              [5/E] Group E              [6/F] Group F
+   Australia                  Cura�ao                    Japan
+   Paraguay                   Ecuador                    Netherlands
+   Turkey                     Germany                    Sweden
+   USA                        Ivory Coast                Tunisia
+
+[7/G] Group G              [8/H] Group H              [9/I] Group I
+   Belgium                    Cape Verde                 France
+   Egypt                      Saudi Arabia               Iraq
+   Iran                       Spain                      Norway
+   New Zealand                Uruguay                    Senegal
+
+[10/J] Group J             [11/K] Group K             [12/L] Group L
+   Algeria                    Colombia                   Croatia
+   Argentina                  DR Congo                   England
+   Austria                    Portugal                   Ghana
+   Jordan                     Uzbekistan                 Panama
+
+Group? (0 = back): j
+
+--- Group J Matches ---
+0. Back to group selection
+1. Argentina vs Algeria (2026-06-16) [No bet]
+    Venue: Kansas City
+    Odds: 1=1.25 | 0=5.5 | 2=12.0
+2. Austria vs Jordan (2026-06-16) [No bet]
+    Venue: San Francisco Bay Area (Santa Clara)
+    Odds: 1=1.35 | 0=4.5 | 2=9.0
+3. Argentina vs Austria (2026-06-22) [No bet]
+    Venue: Dallas (Arlington)
+    Odds: 1=1.4 | 0=4.5 | 2=8.0
+4. Jordan vs Algeria (2026-06-22) [No bet]
+    Venue: San Francisco Bay Area (Santa Clara)
+    Odds: 1=3.4 | 0=3.3 | 2=2.15
+5. Algeria vs Austria (2026-06-27) [No bet]
+    Venue: Kansas City
+    Odds: 1=2.6 | 0=3.2 | 2=2.8
+6. Jordan vs Argentina (2026-06-27) [No bet]
+    Venue: Dallas (Arlington)
+    Odds: 1=15.0 | 0=6.5 | 2=1.18
+
+Match? (0 = back): 1
+
+Selected: Argentina vs Algeria
+Venue: Kansas City
+Odds: 1 (Home) 1.25 | 0 (Draw) 5.5 | 2 (Away) 12.0
+
+Enter prediction: 1=Home Win, 2=Away Win, 0=Draw, x=Remove bet
+1
+Selected: 1 (Home Win) @ odds 1.25
+Enter bet amount ($): 500
+
+Potential win: $625.00
+1) Confirm
+2) Edit
+Choose: 1
+Bet confirmed: $500.0 on 1 (Home Win) @ 1.25
+
+--- Group J Matches ---
+0. Back to group selection
+1. Argentina vs Algeria (2026-06-16) [Bet: 1 (Home Win) $$500.00]
+    Venue: Kansas City
+    Odds: 1=1.25 | 0=5.5 | 2=12.0
+2. Austria vs Jordan (2026-06-16) [No bet]
+    Venue: San Francisco Bay Area (Santa Clara)
+    Odds: 1=1.35 | 0=4.5 | 2=9.0
+3. Argentina vs Austria (2026-06-22) [No bet]
+    Venue: Dallas (Arlington)
+    Odds: 1=1.4 | 0=4.5 | 2=8.0
+4. Jordan vs Algeria (2026-06-22) [No bet]
+    Venue: San Francisco Bay Area (Santa Clara)
+    Odds: 1=3.4 | 0=3.3 | 2=2.15
+5. Algeria vs Austria (2026-06-27) [No bet]
+    Venue: Kansas City
+    Odds: 1=2.6 | 0=3.2 | 2=2.8
+6. Jordan vs Argentina (2026-06-27) [No bet]
+    Venue: Dallas (Arlington)
+    Odds: 1=15.0 | 0=6.5 | 2=1.18
+
+Match? (0 = back): 5
+
+Selected: Algeria vs Austria
+Venue: Kansas City
+Odds: 1 (Home) 2.6 | 0 (Draw) 3.2 | 2 (Away) 2.8
+
+Enter prediction: 1=Home Win, 2=Away Win, 0=Draw, x=Remove bet
+2
+Selected: 2 (Away Win) @ odds 2.8
+Enter bet amount ($): 250
+
+Potential win: $700.00
+1) Confirm
+2) Edit
+Choose: 1
+Bet confirmed: $250.0 on 2 (Away Win) @ 2.8
+
+--- Group J Matches ---
+0. Back to group selection
+1. Argentina vs Algeria (2026-06-16) [Bet: 1 (Home Win) $$500.00]
+    Venue: Kansas City
+    Odds: 1=1.25 | 0=5.5 | 2=12.0
+2. Austria vs Jordan (2026-06-16) [No bet]
+    Venue: San Francisco Bay Area (Santa Clara)
+    Odds: 1=1.35 | 0=4.5 | 2=9.0
+3. Argentina vs Austria (2026-06-22) [No bet]
+    Venue: Dallas (Arlington)
+    Odds: 1=1.4 | 0=4.5 | 2=8.0
+4. Jordan vs Algeria (2026-06-22) [No bet]
+    Venue: San Francisco Bay Area (Santa Clara)
+    Odds: 1=3.4 | 0=3.3 | 2=2.15
+5. Algeria vs Austria (2026-06-27) [Bet: 2 (Away Win) $$250.00]
+    Venue: Kansas City
+    Odds: 1=2.6 | 0=3.2 | 2=2.8
+6. Jordan vs Argentina (2026-06-27) [No bet]
+    Venue: Dallas (Arlington)
+    Odds: 1=15.0 | 0=6.5 | 2=1.18
+
+Match? (0 = back): 0
+Choose by number (1-12) or letter (A-L)
+
+[1/A] Group A              [2/B] Group B              [3/C] Group C
+   Czech Republic             Bosnia & Herzegovina       Brazil
+   South Korea                Canada                     Haiti
+   Mexico                     Qatar                      Morocco
+   South Africa               Switzerland                Scotland
+
+[4/D] Group D              [5/E] Group E              [6/F] Group F
+   Australia                  Cura�ao                    Japan
+   Paraguay                   Ecuador                    Netherlands
+   Turkey                     Germany                    Sweden
+   USA                        Ivory Coast                Tunisia
+
+[7/G] Group G              [8/H] Group H              [9/I] Group I
+   Belgium                    Cape Verde                 France
+   Egypt                      Saudi Arabia               Iraq
+   Iran                       Spain                      Norway
+   New Zealand                Uruguay                    Senegal
+
+[10/J] Group J             [11/K] Group K             [12/L] Group L
+   Algeria                    Colombia                   Croatia
+   Argentina                  DR Congo                   England
+   Austria                    Portugal                   Ghana
+   Jordan                     Uzbekistan                 Panama
+
+Group? (0 = back): 0
+
+=======================================================
+BEFORE GROUP STAGE
+=======================================================
+1) Show Standings (Pre-Tournament)
+2) Show Matches
+3) Place Bets
+4) View / Modify Bets
+5) Proceed to Group Stage
+6) Exit
+=======================================================
+Choose: 4
+
+=== Your Current Bets ===
+0. Back
+1. Argentina vs Algeria (2026-06-16) ? 1 (Home Win) @ 1.25 | $$500.00
+2. Algeria vs Austria (2026-06-27) ? 2 (Away Win) @ 2.8 | $$250.00
+
+Bet to modify? (0 = back): 0
+
+=======================================================
+BEFORE GROUP STAGE
+=======================================================
+1) Show Standings (Pre-Tournament)
+2) Show Matches
+3) Place Bets
+4) View / Modify Bets
+5) Proceed to Group Stage
+6) Exit
+=======================================================
+Choose: 5
+
+=======================================================
+GROUP STAGE OVER
+=======================================================
+1) Group Standings
+2) Bets Placed
+3) Proceed to Round of 32
+4) Exit
+=======================================================
+Choose: 2
+
+=== Group Stage Bet Results ===
+Total wagered: $750.00
+Total won: $625.00
+Net LOSS: $125.00
+Correct: 1 | Incorrect: 1
+Total bets: 2
+Success rate: 50%
+
+--- Detailed Results ---
+Argentina vs Algeria ? You: 1 (Home Win) @ 1.25 | $$500.00 | ? WON | +$125.00
+Algeria vs Austria ? You: 2 (Away Win) @ 2.8 | $$250.00 | ? LOST | -$250.00
+
+=======================================================
+GROUP STAGE OVER
+=======================================================
+1) Group Standings
+2) Bets Placed
+3) Proceed to Round of 32
+4) Exit
+=======================================================
+Choose: 3
+
+=======================================================
+BEFORE ROUND OF 32
+=======================================================
+1) Show Matches
+2) Place Bets
+3) View / Modify Bets
+4) Proceed
+5) Exit
+=======================================================
+Choose: 4
+
+=======================================================
+ROUND OF 32 OVER
+=======================================================
+1) Match Results
+2) Bets Placed
+3) Proceed
+4) Exit
+=======================================================
+Choose: 3
+
+=======================================================
+BEFORE ROUND OF 16
+=======================================================
+1) Show Matches
+2) Place Bets
+3) View / Modify Bets
+4) Proceed
+5) Exit
+=======================================================
+Choose: 1
+
+--- Matches ---
+1. 2026-07-04: Mexico vs Canada [Philadelphia]
+    Mexico: 4W-0D-0L, 12pts, GD:+5 (4 matches)
+    Canada: 3W-1D-0L, 10pts, GD:+5 (4 matches)
+2. 2026-07-04: Brazil vs USA [Houston]
+    Brazil: 4W-0D-0L, 12pts, GD:+9 (4 matches)
+    USA: 3W-1D-0L, 10pts, GD:+5 (4 matches)
+3. 2026-07-05: Germany vs Netherlands [New York/New Jersey (East Rutherford)]
+    Germany: 4W-0D-0L, 12pts, GD:+12 (4 matches)
+    Netherlands: 4W-0D-0L, 12pts, GD:+7 (4 matches)
+4. 2026-07-05: Belgium vs Spain [Mexico City]
+    Belgium: 4W-0D-0L, 12pts, GD:+9 (4 matches)
+    Spain: 3W-1D-0L, 10pts, GD:+9 (4 matches)
+5. 2026-07-06: France vs Argentina [Dallas (Arlington)]
+    France: 4W-0D-0L, 12pts, GD:+11 (4 matches)
+    Argentina: 4W-0D-0L, 12pts, GD:+11 (4 matches)
+6. 2026-07-06: Portugal vs England [Seattle]
+    Portugal: 4W-0D-0L, 12pts, GD:+8 (4 matches)
+    England: 4W-0D-0L, 12pts, GD:+7 (4 matches)
+7. 2026-07-07: South Korea vs Iran [Atlanta]
+    South Korea: 2W-1D-1L, 7pts, GD:+2 (4 matches)
+    Iran: 2W-1D-1L, 7pts, GD:-1 (4 matches)
+8. 2026-07-07: Ghana vs Ivory Coast [Vancouver]
+    Ghana: 2W-1D-1L, 7pts, GD:+2 (4 matches)
+    Ivory Coast: 2W-0D-2L, 6pts, GD:+1 (4 matches)
+
+=======================================================
+BEFORE ROUND OF 16
+=======================================================
+1) Show Matches
+2) Place Bets
+3) View / Modify Bets
+4) Proceed
+5) Exit
+=======================================================
+Choose: 2
+
+--- Place Bets ---
+0. Back
+1. Mexico vs Canada (2026-07-04) [No bet]
+2. Brazil vs USA (2026-07-04) [No bet]
+3. Germany vs Netherlands (2026-07-05) [No bet]
+4. Belgium vs Spain (2026-07-05) [No bet]
+5. France vs Argentina (2026-07-06) [No bet]
+6. Portugal vs England (2026-07-06) [No bet]
+7. South Korea vs Iran (2026-07-07) [No bet]
+8. Ghana vs Ivory Coast (2026-07-07) [No bet]
+
+Match? (0 = back): 5
+
+Selected: France vs Argentina
+Venue: Dallas (Arlington) | Date: 2026-07-06
+France: 4W-0D-0L, 12pts, GD:+11 (4 matches)
+Argentina: 4W-0D-0L, 12pts, GD:+11 (4 matches)
+Odds: 1 (Home) 1.85 | 0 (Draw) 3.4 | 2 (Away) 4.4
+
+Enter prediction: 1=Home Win, 2=Away Win, 0=Draw, x=Remove bet
+1
+Selected: 1 (Home Win) @ odds 1.85
+Enter bet amount ($): 1500
+
+Potential win: $2775.00
+1) Confirm
+2) Edit
+Choose: 1
+Bet confirmed: $1500.0 on 1 (Home Win) @ 1.85
+
+--- Place Bets ---
+0. Back
+1. Mexico vs Canada (2026-07-04) [No bet]
+2. Brazil vs USA (2026-07-04) [No bet]
+3. Germany vs Netherlands (2026-07-05) [No bet]
+4. Belgium vs Spain (2026-07-05) [No bet]
+5. France vs Argentina (2026-07-06) [Bet: 1 (Home Win) $$1500.00]
+6. Portugal vs England (2026-07-06) [No bet]
+7. South Korea vs Iran (2026-07-07) [No bet]
+8. Ghana vs Ivory Coast (2026-07-07) [No bet]
+
+Match? (0 = back): 8
+
+Selected: Ghana vs Ivory Coast
+Venue: Vancouver | Date: 2026-07-07
+Ghana: 2W-1D-1L, 7pts, GD:+2 (4 matches)
+Ivory Coast: 2W-0D-2L, 6pts, GD:+1 (4 matches)
+Odds: 1 (Home) 2.4 | 0 (Draw) 3.2 | 2 (Away) 3.0
+
+Enter prediction: 1=Home Win, 2=Away Win, 0=Draw, x=Remove bet
+3
+Invalid input. No changes made.
+
+--- Place Bets ---
+0. Back
+1. Mexico vs Canada (2026-07-04) [No bet]
+2. Brazil vs USA (2026-07-04) [No bet]
+3. Germany vs Netherlands (2026-07-05) [No bet]
+4. Belgium vs Spain (2026-07-05) [No bet]
+5. France vs Argentina (2026-07-06) [Bet: 1 (Home Win) $$1500.00]
+6. Portugal vs England (2026-07-06) [No bet]
+7. South Korea vs Iran (2026-07-07) [No bet]
+8. Ghana vs Ivory Coast (2026-07-07) [No bet]
+
+Match? (0 = back): 8
+
+Selected: Ghana vs Ivory Coast
+Venue: Vancouver | Date: 2026-07-07
+Ghana: 2W-1D-1L, 7pts, GD:+2 (4 matches)
+Ivory Coast: 2W-0D-2L, 6pts, GD:+1 (4 matches)
+Odds: 1 (Home) 2.4 | 0 (Draw) 3.2 | 2 (Away) 3.0
+
+Enter prediction: 1=Home Win, 2=Away Win, 0=Draw, x=Remove bet
+2
+Selected: 2 (Away Win) @ odds 3.0
+Enter bet amount ($): 250
+
+Potential win: $750.00
+1) Confirm
+2) Edit
+Choose: 1
+Bet confirmed: $250.0 on 2 (Away Win) @ 3.0
+
+--- Place Bets ---
+0. Back
+1. Mexico vs Canada (2026-07-04) [No bet]
+2. Brazil vs USA (2026-07-04) [No bet]
+3. Germany vs Netherlands (2026-07-05) [No bet]
+4. Belgium vs Spain (2026-07-05) [No bet]
+5. France vs Argentina (2026-07-06) [Bet: 1 (Home Win) $$1500.00]
+6. Portugal vs England (2026-07-06) [No bet]
+7. South Korea vs Iran (2026-07-07) [No bet]
+8. Ghana vs Ivory Coast (2026-07-07) [Bet: 2 (Away Win) $$250.00]
+
+Match? (0 = back): 0
+
+=======================================================
+BEFORE ROUND OF 16
+=======================================================
+1) Show Matches
+2) Place Bets
+3) View / Modify Bets
+4) Proceed
+5) Exit
+=======================================================
+Choose: 4
+
+=======================================================
+ROUND OF 16 OVER
+=======================================================
+1) Match Results
+2) Bets Placed
+3) Proceed
+4) Exit
+=======================================================
+Choose: 1
+
+--- Round of 16 Results ---
+2026-07-04: Mexico 2-1 Canada ? Mexico
+    Mexico: 5W-0D-0L, 15pts, GD:+6 (5 matches)
+    Canada: 3W-1D-1L, 10pts, GD:+4 (5 matches)
+2026-07-04: Brazil 3-0 USA ? Brazil
+    Brazil: 5W-0D-0L, 15pts, GD:+12 (5 matches)
+    USA: 3W-1D-1L, 10pts, GD:+2 (5 matches)
+2026-07-05: Germany 2-1 Netherlands ? Germany
+    Germany: 5W-0D-0L, 15pts, GD:+13 (5 matches)
+    Netherlands: 4W-0D-1L, 12pts, GD:+6 (5 matches)
+2026-07-05: Belgium 1-2 Spain ? Spain
+    Belgium: 4W-0D-1L, 12pts, GD:+8 (5 matches)
+    Spain: 4W-1D-0L, 13pts, GD:+10 (5 matches)
+2026-07-06: France 2-1 Argentina ? France
+    France: 5W-0D-0L, 15pts, GD:+12 (5 matches)
+    Argentina: 4W-0D-1L, 12pts, GD:+10 (5 matches)
+2026-07-06: Portugal 0-1 England ? England
+    Portugal: 4W-0D-1L, 12pts, GD:+7 (5 matches)
+    England: 5W-0D-0L, 15pts, GD:+8 (5 matches)
+2026-07-07: South Korea 2-0 Iran ? South Korea
+    South Korea: 3W-1D-1L, 10pts, GD:+4 (5 matches)
+    Iran: 2W-1D-2L, 7pts, GD:-3 (5 matches)
+2026-07-07: Ghana 1-0 Ivory Coast ? Ghana
+    Ghana: 3W-1D-1L, 10pts, GD:+3 (5 matches)
+    Ivory Coast: 2W-0D-3L, 6pts, GD:+0 (5 matches)
+
+=======================================================
+ROUND OF 16 OVER
+=======================================================
+1) Match Results
+2) Bets Placed
+3) Proceed
+4) Exit
+=======================================================
+Choose: 2
+
+=== Round of 16 Bet Results ===
+Total wagered: $1750.00
+Total won: $2775.00
+Net PROFIT: $1025.00
+Correct: 1 | Incorrect: 1
+Total bets: 2
+Success rate: 50%
+
+--- Detailed Results ---
+France vs Argentina ? You: 1 (Home Win) @ 1.85 | $$1500.00 | ? WON | +$1275.00
+Ghana vs Ivory Coast ? You: 2 (Away Win) @ 3.0 | $$250.00 | ? LOST | -$250.00
+
+=======================================================
+ROUND OF 16 OVER
+=======================================================
+1) Match Results
+2) Bets Placed
+3) Proceed
+4) Exit
+=======================================================
+Choose: 3
+
+=======================================================
+BEFORE QUARTER-FINALS
+=======================================================
+
+1. Mexico vs Brazil
+   Venue: Boston (Foxborough) | Date: 2026-07-09
+   Mexico: 5W-0D-0L, 15pts, GD:+6 (5 matches)
+   Brazil: 5W-0D-0L, 15pts, GD:+12 (5 matches)
+   Odds: 1=3.2 | 0=3.3 | 2=2.25 [No bet]
+   Enter b1 to bet on this match
+
+2. Germany vs Spain
+   Venue: Los Angeles (Inglewood) | Date: 2026-07-10
+   Germany: 5W-0D-0L, 15pts, GD:+13 (5 matches)
+   Spain: 4W-1D-0L, 13pts, GD:+10 (5 matches)
+   Odds: 1=1.9 | 0=3.4 | 2=4.2 [No bet]
+   Enter b2 to bet on this match
+
+3. France vs England
+   Venue: Miami (Miami Gardens) | Date: 2026-07-11
+   France: 5W-0D-0L, 15pts, GD:+12 (5 matches)
+   England: 5W-0D-0L, 15pts, GD:+8 (5 matches)
+   Odds: 1=1.8 | 0=3.4 | 2=4.6 [No bet]
+   Enter b3 to bet on this match
+
+4. South Korea vs Ghana
+   Venue: Kansas City | Date: 2026-07-11
+   South Korea: 3W-1D-1L, 10pts, GD:+4 (5 matches)
+   Ghana: 3W-1D-1L, 10pts, GD:+3 (5 matches)
+   Odds: 1=1.7 | 0=3.6 | 2=5.0 [No bet]
+   Enter b4 to bet on this match
+
+0. Proceed
+x. Exit
+Choose: b3
+
+Betting on: France vs England
+
+Enter prediction: 1=Home Win, 2=Away Win, 0=Draw, x=Remove bet
+1
+Selected: 1 (Home Win) @ odds 1.8
+Enter bet amount ($): 600
+
+Potential win: $1080.00
+1) Confirm
+2) Edit
+Choose: 1
+Bet confirmed: $600.0 on 1 (Home Win) @ 1.8
+
+=======================================================
+BEFORE QUARTER-FINALS
+=======================================================
+
+1. Mexico vs Brazil
+   Venue: Boston (Foxborough) | Date: 2026-07-09
+   Mexico: 5W-0D-0L, 15pts, GD:+6 (5 matches)
+   Brazil: 5W-0D-0L, 15pts, GD:+12 (5 matches)
+   Odds: 1=3.2 | 0=3.3 | 2=2.25 [No bet]
+   Enter b1 to bet on this match
+
+2. Germany vs Spain
+   Venue: Los Angeles (Inglewood) | Date: 2026-07-10
+   Germany: 5W-0D-0L, 15pts, GD:+13 (5 matches)
+   Spain: 4W-1D-0L, 13pts, GD:+10 (5 matches)
+   Odds: 1=1.9 | 0=3.4 | 2=4.2 [No bet]
+   Enter b2 to bet on this match
+
+3. France vs England
+   Venue: Miami (Miami Gardens) | Date: 2026-07-11
+   France: 5W-0D-0L, 15pts, GD:+12 (5 matches)
+   England: 5W-0D-0L, 15pts, GD:+8 (5 matches)
+   Odds: 1=1.8 | 0=3.4 | 2=4.6 [Bet: 1 (Home Win) $$600.00]
+   Enter b3 to bet on this match
+
+4. South Korea vs Ghana
+   Venue: Kansas City | Date: 2026-07-11
+   South Korea: 3W-1D-1L, 10pts, GD:+4 (5 matches)
+   Ghana: 3W-1D-1L, 10pts, GD:+3 (5 matches)
+   Odds: 1=1.7 | 0=3.6 | 2=5.0 [No bet]
+   Enter b4 to bet on this match
+
+0. Proceed
+x. Exit
+Choose: 0
+
+=======================================================
+QUARTER-FINALS OVER
+=======================================================
+1) Match Results
+2) Bets Placed
+3) Proceed
+4) Exit
+=======================================================
+Choose: 1
+
+--- Quarter-final Results ---
+2026-07-09: Mexico 2-3 Brazil ? Brazil
+    Mexico: 5W-0D-1L, 15pts, GD:+5 (6 matches)
+    Brazil: 6W-0D-0L, 18pts, GD:+13 (6 matches)
+2026-07-10: Germany 1-2 Spain ? Spain
+    Germany: 5W-0D-1L, 15pts, GD:+12 (6 matches)
+    Spain: 5W-1D-0L, 16pts, GD:+11 (6 matches)
+2026-07-11: France 1-0 England ? France
+    France: 6W-0D-0L, 18pts, GD:+13 (6 matches)
+    England: 5W-0D-1L, 15pts, GD:+7 (6 matches)
+2026-07-11: South Korea 2-1 Ghana ? South Korea
+    South Korea: 4W-1D-1L, 13pts, GD:+5 (6 matches)
+    Ghana: 3W-1D-2L, 10pts, GD:+2 (6 matches)
+
+=======================================================
+QUARTER-FINALS OVER
+=======================================================
+1) Match Results
+2) Bets Placed
+3) Proceed
+4) Exit
+=======================================================
+Choose: 2
+
+=== Quarter-final Bet Results ===
+Total wagered: $600.00
+Total won: $1080.00
+Net PROFIT: $480.00
+Correct: 1 | Incorrect: 0
+Total bets: 1
+Success rate: 100%
+
+--- Detailed Results ---
+France vs England ? You: 1 (Home Win) @ 1.8 | $$600.00 | ? WON | +$480.00
+
+=======================================================
+QUARTER-FINALS OVER
+=======================================================
+1) Match Results
+2) Bets Placed
+3) Proceed
+4) Exit
+=======================================================
+Choose: 3
+
+=======================================================
+BEFORE SEMI-FINALS
+=======================================================
+
+1. Brazil vs Spain
+   Venue: Dallas (Arlington) | Date: 2026-07-14
+   Brazil: 6W-0D-0L, 18pts, GD:+13 (6 matches)
+   Spain: 5W-1D-0L, 16pts, GD:+11 (6 matches)
+   Odds: 1=1.75 | 0=3.5 | 2=4.8 [No bet]
+   Enter b1 to bet on this match
+
+2. France vs South Korea
+   Venue: Atlanta | Date: 2026-07-15
+   France: 6W-0D-0L, 18pts, GD:+13 (6 matches)
+   South Korea: 4W-1D-1L, 13pts, GD:+5 (6 matches)
+   Odds: 1=1.3 | 0=5.0 | 2=10.0 [No bet]
+   Enter b2 to bet on this match
+
+0. Proceed
+x. Exit
+Choose: 2
+Invalid option.
+
+=======================================================
+BEFORE SEMI-FINALS
+=======================================================
+
+1. Brazil vs Spain
+   Venue: Dallas (Arlington) | Date: 2026-07-14
+   Brazil: 6W-0D-0L, 18pts, GD:+13 (6 matches)
+   Spain: 5W-1D-0L, 16pts, GD:+11 (6 matches)
+   Odds: 1=1.75 | 0=3.5 | 2=4.8 [No bet]
+   Enter b1 to bet on this match
+
+2. France vs South Korea
+   Venue: Atlanta | Date: 2026-07-15
+   France: 6W-0D-0L, 18pts, GD:+13 (6 matches)
+   South Korea: 4W-1D-1L, 13pts, GD:+5 (6 matches)
+   Odds: 1=1.3 | 0=5.0 | 2=10.0 [No bet]
+   Enter b2 to bet on this match
+
+0. Proceed
+x. Exit
+Choose: b2
+
+Betting on: France vs South Korea
+
+Enter prediction: 1=Home Win, 2=Away Win, 0=Draw, x=Remove bet
+1
+Selected: 1 (Home Win) @ odds 1.3
+Enter bet amount ($): 1000
+
+Potential win: $1300.00
+1) Confirm
+2) Edit
+Choose: 1
+Bet confirmed: $1000.0 on 1 (Home Win) @ 1.3
+
+=======================================================
+BEFORE SEMI-FINALS
+=======================================================
+
+1. Brazil vs Spain
+   Venue: Dallas (Arlington) | Date: 2026-07-14
+   Brazil: 6W-0D-0L, 18pts, GD:+13 (6 matches)
+   Spain: 5W-1D-0L, 16pts, GD:+11 (6 matches)
+   Odds: 1=1.75 | 0=3.5 | 2=4.8 [No bet]
+   Enter b1 to bet on this match
+
+2. France vs South Korea
+   Venue: Atlanta | Date: 2026-07-15
+   France: 6W-0D-0L, 18pts, GD:+13 (6 matches)
+   South Korea: 4W-1D-1L, 13pts, GD:+5 (6 matches)
+   Odds: 1=1.3 | 0=5.0 | 2=10.0 [Bet: 1 (Home Win) $$1000.00]
+   Enter b2 to bet on this match
+
+0. Proceed
+x. Exit
+Choose: 0
+
+=======================================================
+SEMI-FINALS OVER
+=======================================================
+1) Match Results
+2) Bets Placed
+3) Proceed
+4) Exit
+=======================================================
+Choose: 3
+
+=======================================================
+BEFORE FINAL
+=======================================================
+
+1. Brazil vs France
+   Venue: New York/New Jersey (East Rutherford) | Date: 2026-07-19
+   Brazil: 7W-0D-0L, 21pts, GD:+14 (7 matches)
+   France: 7W-0D-0L, 21pts, GD:+16 (7 matches)
+   Odds: 1=2.1 | 0=3.3 | 2=3.5 [No bet]
+   Enter b1 to bet on this match
+
+0. Proceed
+x. Exit
+Choose: b1
+
+Betting on: Brazil vs France
+
+Enter prediction: 1=Home Win, 2=Away Win, 0=Draw, x=Remove bet
+1
+Selected: 1 (Home Win) @ odds 2.1
+Enter bet amount ($): 650
+
+Potential win: $1365.00
+1) Confirm
+2) Edit
+Choose: 1
+Bet confirmed: $650.0 on 1 (Home Win) @ 2.1
+
+=======================================================
+BEFORE FINAL
+=======================================================
+
+1. Brazil vs France
+   Venue: New York/New Jersey (East Rutherford) | Date: 2026-07-19
+   Brazil: 7W-0D-0L, 21pts, GD:+14 (7 matches)
+   France: 7W-0D-0L, 21pts, GD:+16 (7 matches)
+   Odds: 1=2.1 | 0=3.3 | 2=3.5 [Bet: 1 (Home Win) $$650.00]
+   Enter b1 to bet on this match
+
+0. Proceed
+x. Exit
+Choose: 0
+
+=======================================================
+TOURNAMENT OVER
+=======================================================
+
+? CHAMPION: France ?
+Final: Brazil 2-3 France
+
+Brazil full tournament: 7W-0D-1L, 21pts, GD:+13 (8 matches)
+France full tournament: 8W-0D-0L, 24pts, GD:+17 (8 matches)
+
+=== Tournament Bet Results ===
+Total wagered: $4750.00
+Total won: $5780.00
+Net PROFIT: $1030.00
+Correct: 4 | Incorrect: 3
+Total bets: 7
+Success rate: 57%
+
+--- Detailed Results ---
+Argentina vs Algeria ? You: 1 (Home Win) @ 1.25 | $$500.00 | ? WON | +$125.00
+Algeria vs Austria ? You: 2 (Away Win) @ 2.8 | $$250.00 | ? LOST | -$250.00
+France vs Argentina ? You: 1 (Home Win) @ 1.85 | $$1500.00 | ? WON | +$1275.00
+Ghana vs Ivory Coast ? You: 2 (Away Win) @ 3.0 | $$250.00 | ? LOST | -$250.00
+France vs England ? You: 1 (Home Win) @ 1.8 | $$600.00 | ? WON | +$480.00
+France vs South Korea ? You: 1 (Home Win) @ 1.3 | $$1000.00 | ? WON | +$300.00
+Brazil vs France ? You: 1 (Home Win) @ 2.1 | $$650.00 | ? LOST | -$650.00
+
+Thank you for playing!
